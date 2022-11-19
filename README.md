@@ -87,9 +87,15 @@ Total: 991.5 -> 1.25A
 
 Total: 625mA -> 750mA
 
-#### Power sequencing
+#### Power tree/sequencing
 
 3.3V must come up before 1.35V.
+
+```
+5V ---> 3V3_IN ---> 3V3 ---> 1V35
+           |
+           `---> 3V3_SNVS
+```
 
 ### PMIC etc
 

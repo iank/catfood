@@ -1,6 +1,6 @@
 (kicad_sch (version 20211123) (generator eeschema)
 
-  (uuid d1a5af92-c285-4dd0-b50d-bd4a69295b01)
+  (uuid d262e1ab-8607-42bd-bd48-eb279ae9f2c5)
 
   (paper "A4")
 
@@ -8,7 +8,7 @@
   )
 
 
-  (text "voltage test points\nethernet\nUSB-A\nmicroUSB\nUART header[s]"
+  (text "ethernet\nUSB-A\nmicroUSB\nUART header[s]\n\nmounting holes\nstencil alignment holes"
     (at 27.94 35.56 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 8ceb6c42-1e01-4762-b40a-2b7b653bdb97)
