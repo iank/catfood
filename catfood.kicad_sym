@@ -110,7 +110,7 @@
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "G7" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 17.78 7.62 180) (length 2.54)
+      (pin passive line (at 17.78 1.27 180) (length 2.54)
         (name "VDD_SOC_CAP" (effects (font (size 1.27 1.27))))
         (number "G8" (effects (font (size 1.27 1.27))))
       )
@@ -134,7 +134,7 @@
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "H7" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 17.78 7.62 180) (length 2.54) hide
+      (pin passive line (at 17.78 1.27 180) (length 2.54) hide
         (name "VDD_SOC_CAP" (effects (font (size 1.27 1.27))))
         (number "H8" (effects (font (size 1.27 1.27))))
       )
@@ -146,7 +146,7 @@
         (name "VDD_SOC_IN" (effects (font (size 1.27 1.27))))
         (number "J10" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 17.78 7.62 180) (length 2.54) hide
+      (pin passive line (at 17.78 1.27 180) (length 2.54) hide
         (name "VDD_SOC_CAP" (effects (font (size 1.27 1.27))))
         (number "J11" (effects (font (size 1.27 1.27))))
       )
@@ -162,7 +162,7 @@
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "J7" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 17.78 7.62 180) (length 2.54) hide
+      (pin passive line (at 17.78 1.27 180) (length 2.54) hide
         (name "VDD_SOC_CAP" (effects (font (size 1.27 1.27))))
         (number "J8" (effects (font (size 1.27 1.27))))
       )
@@ -174,7 +174,7 @@
         (name "VDD_SOC_IN" (effects (font (size 1.27 1.27))))
         (number "K10" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 17.78 7.62 180) (length 2.54) hide
+      (pin passive line (at 17.78 1.27 180) (length 2.54) hide
         (name "VDD_SOC_CAP" (effects (font (size 1.27 1.27))))
         (number "K11" (effects (font (size 1.27 1.27))))
       )
@@ -186,7 +186,7 @@
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "K7" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 17.78 7.62 180) (length 2.54) hide
+      (pin passive line (at 17.78 1.27 180) (length 2.54) hide
         (name "VDD_SOC_CAP" (effects (font (size 1.27 1.27))))
         (number "K8" (effects (font (size 1.27 1.27))))
       )
@@ -194,11 +194,11 @@
         (name "VDD_SOC_IN" (effects (font (size 1.27 1.27))))
         (number "K9" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 17.78 7.62 180) (length 2.54) hide
+      (pin passive line (at 17.78 1.27 180) (length 2.54) hide
         (name "VDD_SOC_CAP" (effects (font (size 1.27 1.27))))
         (number "L10" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 17.78 7.62 180) (length 2.54) hide
+      (pin passive line (at 17.78 1.27 180) (length 2.54) hide
         (name "VDD_SOC_CAP" (effects (font (size 1.27 1.27))))
         (number "L11" (effects (font (size 1.27 1.27))))
       )
@@ -214,11 +214,11 @@
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "L7" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 17.78 7.62 180) (length 2.54) hide
+      (pin passive line (at 17.78 1.27 180) (length 2.54) hide
         (name "VDD_SOC_CAP" (effects (font (size 1.27 1.27))))
         (number "L8" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 17.78 7.62 180) (length 2.54) hide
+      (pin passive line (at 17.78 1.27 180) (length 2.54) hide
         (name "VDD_SOC_CAP" (effects (font (size 1.27 1.27))))
         (number "L9" (effects (font (size 1.27 1.27))))
       )
@@ -246,6 +246,10 @@
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "M9" (effects (font (size 1.27 1.27))))
       )
+      (pin passive line (at 17.78 -29.21 180) (length 2.54)
+        (name "VDD_SNVS_CAP" (effects (font (size 1.27 1.27))))
+        (number "N12" (effects (font (size 1.27 1.27))))
+      )
       (pin power_in line (at -17.78 1.27 0) (length 2.54)
         (name "VDD_HIGH_IN" (effects (font (size 1.27 1.27))))
         (number "N13" (effects (font (size 1.27 1.27))))
@@ -262,15 +266,19 @@
         (name "VDD_SNVS_IN" (effects (font (size 1.27 1.27))))
         (number "P12" (effects (font (size 1.27 1.27))))
       )
+      (pin passive line (at 17.78 -24.13 180) (length 2.54)
+        (name "NVCC_PLL" (effects (font (size 1.27 1.27))))
+        (number "P13" (effects (font (size 1.27 1.27))))
+      )
       (pin passive line (at -17.78 -29.21 0) (length 2.54) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "R11" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 17.78 -3.81 180) (length 2.54)
+      (pin passive line (at 17.78 -13.97 180) (length 2.54)
         (name "VDD_HIGH_CAP" (effects (font (size 1.27 1.27))))
         (number "R14" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 17.78 -3.81 180) (length 2.54) hide
+      (pin passive line (at 17.78 -13.97 180) (length 2.54) hide
         (name "VDD_HIGH_CAP" (effects (font (size 1.27 1.27))))
         (number "R15" (effects (font (size 1.27 1.27))))
       )
@@ -1283,6 +1291,266 @@
       (rectangle (start -15.24 26.67) (end 15.24 -3.81)
         (stroke (width 0) (type default) (color 0 0 0 0))
         (fill (type none))
+      )
+    )
+  )
+  (symbol "VDD_1V35" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
+    (property "Reference" "#PWR01" (id 0) (at 0 -3.81 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "VDD_1V35" (id 1) (at 0 5.08 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (id 3) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "ki_keywords" "power-flag" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "ki_description" "Power symbol creates a global label with name \"VDD_1V35\"" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (symbol "VDD_1V35_0_1"
+      (polyline
+        (pts
+          (xy -0.762 1.27)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 2.54)
+          (xy 0.762 1.27)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+    )
+    (symbol "VDD_1V35_1_1"
+      (pin power_in line (at 0 0 90) (length 0) hide
+        (name "VDD_1V35" (effects (font (size 1.27 1.27))))
+        (number "1" (effects (font (size 1.27 1.27))))
+      )
+    )
+  )
+  (symbol "VDD_3V3" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
+    (property "Reference" "#PWR01" (id 0) (at 0 -3.81 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "VDD_3V3" (id 1) (at 0 5.08 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (id 3) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "ki_keywords" "power-flag" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "ki_description" "Power symbol creates a global label with name \"VDD_3V3\"" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (symbol "VDD_3V3_0_1"
+      (polyline
+        (pts
+          (xy -0.762 1.27)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 2.54)
+          (xy 0.762 1.27)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+    )
+    (symbol "VDD_3V3_1_1"
+      (pin power_in line (at 0 0 90) (length 0) hide
+        (name "VDD_3V3" (effects (font (size 1.27 1.27))))
+        (number "1" (effects (font (size 1.27 1.27))))
+      )
+    )
+  )
+  (symbol "VDD_3V3_IN" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
+    (property "Reference" "#PWR01" (id 0) (at 0 -3.81 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "VDD_3V3_IN" (id 1) (at 0 5.08 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (id 3) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "ki_keywords" "power-flag" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "ki_description" "Power symbol creates a global label with name \"VDD_3V3_IN\"" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (symbol "VDD_3V3_IN_0_1"
+      (polyline
+        (pts
+          (xy -0.762 1.27)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 2.54)
+          (xy 0.762 1.27)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+    )
+    (symbol "VDD_3V3_IN_1_1"
+      (pin power_in line (at 0 0 90) (length 0) hide
+        (name "VDD_3V3_IN" (effects (font (size 1.27 1.27))))
+        (number "1" (effects (font (size 1.27 1.27))))
+      )
+    )
+  )
+  (symbol "VDD_5V" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
+    (property "Reference" "#PWR01" (id 0) (at 0 -3.81 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "VDD_5V" (id 1) (at 0 5.08 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (id 3) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "ki_keywords" "power-flag" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "ki_description" "Power symbol creates a global label with name \"VDD_5V\"" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (symbol "VDD_5V_0_1"
+      (polyline
+        (pts
+          (xy -0.762 1.27)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 2.54)
+          (xy 0.762 1.27)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+    )
+    (symbol "VDD_5V_1_1"
+      (pin power_in line (at 0 0 90) (length 0) hide
+        (name "VDD_5V" (effects (font (size 1.27 1.27))))
+        (number "1" (effects (font (size 1.27 1.27))))
+      )
+    )
+  )
+  (symbol "VDD_HIGH_CAP" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
+    (property "Reference" "#PWR01" (id 0) (at 0 -3.81 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "VDD_HIGH_CAP" (id 1) (at 0 5.08 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (id 3) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "ki_keywords" "power-flag" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "ki_description" "Power symbol creates a global label with name \"VDD_HIGH_CAP\"" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (symbol "VDD_HIGH_CAP_0_1"
+      (polyline
+        (pts
+          (xy -0.762 1.27)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 2.54)
+          (xy 0.762 1.27)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+    )
+    (symbol "VDD_HIGH_CAP_1_1"
+      (pin power_in line (at 0 0 90) (length 0) hide
+        (name "VDD_HIGH_CAP" (effects (font (size 1.27 1.27))))
+        (number "1" (effects (font (size 1.27 1.27))))
       )
     )
   )

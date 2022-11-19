@@ -43,7 +43,7 @@ kifield -x catfood.csv -i catfood.kicad_sch -w -r
 
 ### Boot mode selection
 
-TODO: Boot from fuses w/ test point for serial downloader
+Boot from fuses w/ test point for serial downloader
 
 ### Power tree / sequencing / current requirements
 
@@ -110,6 +110,10 @@ Total: 625mA -> 750mA
 ### USB
 
 - TODO: direction, version, bus detect, power supply/limits
+
+### WiFi
+
+- TODO: 
 
 ## Enclosure
 

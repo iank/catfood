@@ -8,7 +8,7 @@
   )
 
 
-  (text "ethernet\nUSB-A\nmicroUSB\nUART header[s]\n\nmounting holes\nstencil alignment holes"
+  (text "ethernet\nUSB-A\nmicroUSB\nUART header[s]\n\ntvs\n\nmounting holes\nstencil alignment holes"
     (at 27.94 35.56 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 8ceb6c42-1e01-4762-b40a-2b7b653bdb97)

@@ -327,7 +327,7 @@
     ],
     [
       "2ab15384-2aea-4732-9049-deba0d18aefc",
-      "SoC Core"
+      "SoC Core Power"
     ],
     [
       "8268d581-e104-4459-841c-45d3bd21be9e",
@@ -356,6 +356,10 @@
     [
       "9e9d365b-50b6-4e60-9e2a-c60cbf357141",
       "Connectors & Debug"
+    ],
+    [
+      "f3ebd76f-b12f-4b33-bd17-edae6bffa200",
+      "SoC Clock & Ctrl"
     ]
   ],
   "text_variables": {}
