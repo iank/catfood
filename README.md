@@ -1,6 +1,6 @@
 # catfood
 
-i.MX6ULL board with NAND, DDR3, USB-A host port, microUSB device port/power, ethernet, SD, wifi
+i.MX6ULL board with NAND, DDR3, USB-A host port, microUSB device port/power, ethernet, wifi
 
 ## Update fields:
 
@@ -19,3 +19,23 @@ kifield -x catfood.csv -i catfood.kicad_sch -w -r
     - 09: 900MHz
     - A:  Reserved
     - B:  Silicon Rev 1.1
+
+- PMIC
+
+- NAND
+
+- RAM
+
+- PHY
+
+- WiFi
+
+## Design notes
+
+### Boot mode selection
+
+### Power tree / sequencing / current requirements
+
+### PMIC etc
+
+- ONOFF/~POR
