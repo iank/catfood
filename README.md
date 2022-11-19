@@ -23,10 +23,17 @@ kifield -x catfood.csv -i catfood.kicad_sch -w -r
 - PMIC
 
 - NAND
+    - MT29F4G08ABAEAWP:E
+    - TODO: update
 
 - RAM
+    - IS43TR16256BL-107MBL
+    - TODO: update
 
 - PHY
+    - LAN8700C-AEZG
+    - TE 1888250-1
+    - TODO: magnetics
 
 - WiFi
 
@@ -36,6 +43,14 @@ kifield -x catfood.csv -i catfood.kicad_sch -w -r
 
 ### Power tree / sequencing / current requirements
 
+TODO: 3.3V and 1.35V
+
 ### PMIC etc
 
-- ONOFF/~POR
+- TODO: ONOFF/~POR
+- TODO: low power sleep
+- TODO: WoL
+
+### RTC
+
+## Enclosure
