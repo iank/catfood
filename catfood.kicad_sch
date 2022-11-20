@@ -34,10 +34,6 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 486dba3d-76c5-4bef-b36e-a0ea63413ea1)
   )
-  (text "TODO" (at 109.22 100.33 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 6fe176dc-af3d-455d-b0d2-712078cf518e)
-  )
   (text "TODO" (at 110.49 64.77 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 73d27acb-dd32-4d6b-9c44-ce1394c94939)
@@ -67,18 +63,6 @@
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
     (property "Sheet file" "nand.kicad_sch" (id 1) (at 137.16 71.7046 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-  )
-
-  (sheet (at 102.87 95.25) (size 27.94 11.43) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
-    (fill (color 0 0 0 0.0000))
-    (uuid 0bb953a9-9c38-4653-8755-72b71e851211)
-    (property "Sheet name" "WiFi" (id 0) (at 102.87 94.5384 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheet file" "wifi.kicad_sch" (id 1) (at 102.87 107.2646 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
   )
@@ -223,7 +207,6 @@
     (path "/798b3f66-4b87-46ea-bb18-dc03ff32d68c" (page "5"))
     (path "/070bf4c0-20e4-46ea-85ff-83bf5a0585a3" (page "6"))
     (path "/a3321ecb-7e45-4b88-8ac6-91bd0372968a" (page "7"))
-    (path "/0bb953a9-9c38-4653-8755-72b71e851211" (page "8"))
     (path "/1f7c86fd-838a-4fbd-9ad6-fe73640b467f" (page "9"))
     (path "/9e9d365b-50b6-4e60-9e2a-c60cbf357141" (page "10"))
     (path "/f3ebd76f-b12f-4b33-bd17-edae6bffa200" (page "11"))
@@ -569,9 +552,6 @@
     (path "/a3321ecb-7e45-4b88-8ac6-91bd0372968a/7e852a1f-9995-4cab-8a88-72c4d098e93e"
       (reference "U1") (unit 8) (value "MCIMX6Y2DVM09AB") (footprint "")
     )
-    (path "/0bb953a9-9c38-4653-8755-72b71e851211/3c03845e-6e0c-41be-9bcf-762be44e9517"
-      (reference "U1") (unit 9) (value "MCIMX6Y2DVM09AB") (footprint "")
-    )
     (path "/070bf4c0-20e4-46ea-85ff-83bf5a0585a3/578b9c34-21ad-4bde-a728-85eb81977179"
       (reference "U1") (unit 10) (value "MCIMX6Y2DVM09AB") (footprint "")
     )
@@ -589,6 +569,9 @@
     )
     (path "/f3ebd76f-b12f-4b33-bd17-edae6bffa200/5af03b25-64bc-4e26-a994-82a8b734cdef"
       (reference "U?") (unit 2) (value "MCIMX6Y2DVM09AB") (footprint "")
+    )
+    (path "/1f7c86fd-838a-4fbd-9ad6-fe73640b467f/1e4aacdc-9178-46b1-831c-e66ca079f1f1"
+      (reference "U?") (unit 9) (value "MCIMX6Y2DVM09AB") (footprint "")
     )
     (path "/f3ebd76f-b12f-4b33-bd17-edae6bffa200/1775a2ca-2f99-43fb-9cc5-88fd1d54cd77"
       (reference "Y?") (unit 1) (value "24MHz") (footprint "")

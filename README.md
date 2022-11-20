@@ -1,6 +1,6 @@
 # catfood
 
-i.MX6ULL board with NAND, DDR3L, USB-A host port, microUSB device port/power, ethernet, wifi
+i.MX6ULL board with NAND, DDR3L, USB-A host port, microUSB device port/power, ethernet
 
 ## Update fields:
 
@@ -36,9 +36,6 @@ kifield -x catfood.csv -i catfood.kicad_sch -w -r
     - TE 1888250-1
     - TODO: magnetics
 
-- WiFi
-    - AW-CM389NF
-
 ## Design notes
 
 ### Boot mode selection
@@ -50,7 +47,7 @@ Boot from fuses w/ test point for serial downloader
 | Rail		| Voltage	| Max Current | Description |
 | ------------- | ------------- | ----------- | ----------- |
 | VDD_5V_USB    | 5V            | TODO        | USB1 input  |
-| VDD_3V3       | 3.3V          | 1A [1]      | Supplies VDD_HIGH_IN, VDD_SNVS_IN, NVCC_SD, VDDA_ADC_3P3, NVCC_UART, NVCC_GPIO, NVCC_NAND, NVCC_ENET, NVCC_CSI, NVCC_LCD, as well as the NAND, Ethernet PHY, and WiFi module |
+| VDD_3V3       | 3.3V          | 1A [1]      | Supplies VDD_HIGH_IN, VDD_SNVS_IN, NVCC_SD, VDDA_ADC_3P3, NVCC_UART, NVCC_GPIO, NVCC_NAND, NVCC_ENET, NVCC_CSI, NVCC_LCD, as well as the NAND and Ethernet PHY |
 | VDD_1V35      | 1.35V         | 750mA [2]   | Supplies NVCC_DRAM and VDD_SOC_IN, as well as the DRAM |
 
 #### Power budget
@@ -73,10 +70,9 @@ measurements for DDR3L.
 | --------------- | ---------------- |
 | NAND            | 30               |
 | LAN8700C        | 82               |
-| WiFi            | 300 [Wild Guess] |
 | 1.35V @ 80% eff | 384              |
 
-Total: 991.5 -> 1.25A
+Total: 691.5 -> 1A
 
 ##### [2] 1.35V power budget
 
@@ -101,7 +97,6 @@ Total: 625mA -> 750mA
 
 - TODO: ONOFF/~POR
 - TODO: low power sleep
-- TODO: WoL
 
 ### RTC
 
@@ -110,10 +105,6 @@ Total: 625mA -> 750mA
 ### USB
 
 - TODO: direction, version, bus detect, power supply/limits
-
-### WiFi
-
-- TODO: 
 
 ## Enclosure
 
