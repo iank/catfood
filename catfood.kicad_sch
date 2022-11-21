@@ -525,6 +525,9 @@
     (path "/f3ebd76f-b12f-4b33-bd17-edae6bffa200/f7eb4c7f-0ed6-4e39-92e5-990ad2bc8099"
       (reference "R?") (unit 1) (value "100k 0402") (footprint "")
     )
+    (path "/a3321ecb-7e45-4b88-8ac6-91bd0372968a/05fe7ead-10e7-42b6-9293-785994f866cf"
+      (reference "T?") (unit 1) (value "H1102") (footprint "")
+    )
     (path "/e1490e46-0057-4bf0-bc0e-723ccd3e21a2/1b69e67b-66a9-47de-982c-ded07fdad165"
       (reference "TP?") (unit 1) (value "TestPoint") (footprint "")
     )
