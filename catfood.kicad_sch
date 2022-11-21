@@ -42,7 +42,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid ace2bb6b-043c-4904-9223-7d0179e11a5e)
   )
-  (text "TODO: onoff/PoR/pmic_on_req test points" (at 171.45 33.02 0)
+  (text "TODO: onoff/PoR/pmic_on_req test points" (at 50.8 33.02 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid b9ae53ff-d2cc-4179-800e-51dbd9355540)
   )
@@ -324,6 +324,9 @@
     (path "/e1490e46-0057-4bf0-bc0e-723ccd3e21a2/8dd18c84-c3d6-4695-b07d-5e98f352f796"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/a3321ecb-7e45-4b88-8ac6-91bd0372968a/9798fbb5-87a6-455e-8929-32fa31c7860f"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/e1490e46-0057-4bf0-bc0e-723ccd3e21a2/9a9e918f-0ea8-4f84-95f1-c8607d7cc163"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -337,6 +340,9 @@
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/e1490e46-0057-4bf0-bc0e-723ccd3e21a2/b827c2ad-59bd-4ef9-9a5d-f59e81cd4026"
+      (reference "#PWR?") (unit 1) (value "VDD_3V3") (footprint "")
+    )
+    (path "/a3321ecb-7e45-4b88-8ac6-91bd0372968a/c2f216b5-abaf-4b8c-9f5a-f3b782b7cfcd"
       (reference "#PWR?") (unit 1) (value "VDD_3V3") (footprint "")
     )
     (path "/f3ebd76f-b12f-4b33-bd17-edae6bffa200/dcfe82b4-728e-47e9-b293-74162304364f"
@@ -407,6 +413,9 @@
     )
     (path "/e1490e46-0057-4bf0-bc0e-723ccd3e21a2/348ea8d6-6a1e-4edf-af09-c88d8834afed"
       (reference "C?") (unit 1) (value "10uF 0805") (footprint "")
+    )
+    (path "/a3321ecb-7e45-4b88-8ac6-91bd0372968a/3682212d-b684-4e0b-9460-4a3d9e57e1b1"
+      (reference "C?") (unit 1) (value "0.22uF 0402") (footprint "")
     )
     (path "/e1490e46-0057-4bf0-bc0e-723ccd3e21a2/616a633c-9b9e-4f13-b951-4d3018cdc580"
       (reference "C?") (unit 1) (value "DNI 0402") (footprint "")
@@ -563,6 +572,9 @@
     )
     (path "/e1490e46-0057-4bf0-bc0e-723ccd3e21a2/34501040-eed7-4d33-b567-0a01a2742aa1"
       (reference "U?") (unit 1) (value "LMR10510XMF") (footprint "Package_TO_SOT_SMD:SOT-23-5")
+    )
+    (path "/a3321ecb-7e45-4b88-8ac6-91bd0372968a/bdbfdce4-d165-490f-9bbb-5d1a15aea6a5"
+      (reference "U?") (unit 1) (value "LAN8700C-AEZG") (footprint "")
     )
     (path "/e1490e46-0057-4bf0-bc0e-723ccd3e21a2/be8ec1dd-a9ac-4bea-96db-c07b6eb52f80"
       (reference "U?") (unit 1) (value "MP2143DJ") (footprint "")
