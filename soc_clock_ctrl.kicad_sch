@@ -2,7 +2,12 @@
 
   (uuid ee76667c-db7f-4965-a555-17d1153b546c)
 
-  (paper "A4")
+  (paper "USLetter")
+
+  (title_block
+    (title "catfood")
+    (company "Ian Kilgore")
+  )
 
   (lib_symbols
     (symbol "Device:C_Small" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)

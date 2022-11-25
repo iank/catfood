@@ -2,7 +2,12 @@
 
   (uuid d262e1ab-8607-42bd-bd48-eb279ae9f2c5)
 
-  (paper "A4")
+  (paper "USLetter")
+
+  (title_block
+    (title "catfood")
+    (company "Ian Kilgore")
+  )
 
   (lib_symbols
   )
