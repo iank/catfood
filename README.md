@@ -34,7 +34,7 @@ kifield -x catfood.csv -i catfood.kicad_sch -w -r
 - PHY
     - LAN8700C-AEZG
     - TE 1888250-1
-    - TODO: magnetics
+    - Pulse H1102
 
 ## Design notes
 
