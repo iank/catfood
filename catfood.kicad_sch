@@ -729,6 +729,9 @@
     (path "/1f7c86fd-838a-4fbd-9ad6-fe73640b467f/157250e1-6b1e-4f9e-aac4-bd49d8511f7e"
       (reference "U1") (unit 11) (value "MCIMX6Y2DVM09AB") (footprint "")
     )
+    (path "/798b3f66-4b87-46ea-bb18-dc03ff32d68c/15a20f90-ef01-460d-a054-2143b862b121"
+      (reference "U?") (unit 1) (value "IS43TR16256BL-107MBL") (footprint "")
+    )
     (path "/e1490e46-0057-4bf0-bc0e-723ccd3e21a2/1e6de92c-a990-46d4-ab4c-bc76c62c110a"
       (reference "U?") (unit 1) (value "AP22615AWU-7") (footprint "")
     )
