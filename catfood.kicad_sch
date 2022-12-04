@@ -896,6 +896,9 @@
     (path "/e1490e46-0057-4bf0-bc0e-723ccd3e21a2/34501040-eed7-4d33-b567-0a01a2742aa1"
       (reference "U?") (unit 1) (value "LMR10510XMF") (footprint "Package_TO_SOT_SMD:SOT-23-5")
     )
+    (path "/070bf4c0-20e4-46ea-85ff-83bf5a0585a3/64e4c24f-def2-41c6-8fc0-60d8aac7a646"
+      (reference "U?") (unit 1) (value "MT29F4G08ABAEAH4") (footprint "")
+    )
     (path "/a3321ecb-7e45-4b88-8ac6-91bd0372968a/bdbfdce4-d165-490f-9bbb-5d1a15aea6a5"
       (reference "U?") (unit 1) (value "LAN8700C-AEZG") (footprint "")
     )

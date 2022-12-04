@@ -25,8 +25,7 @@ kifield -x catfood.csv -i catfood.kicad_sch -w -r
     - LMR10510XMF
 
 - NAND
-    - MT29F4G08ABAEAWP:E
-    - TODO: EoL but I have some on hand. Drop-in replacement for future?
+    - MT29F4G08ABAEAH4
 
 - RAM
     - IS43TR16256BL-107MBL
