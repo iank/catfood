@@ -104,8 +104,7 @@ Total: 625mA -> 750mA
 ### USB
 
 - Power (5V 3A) will be provided to the board using USB_OTG1, a USB-C 2.0 device port.
-- USB_OTG2 will be a type A 2.0 host port
-- TODO: USB_OTG2 limit
+- USB_OTG2 will be a type A 2.0 host port with a 1A current limit
 
 ## Enclosure
 
