@@ -3568,7 +3568,7 @@
     (uuid fc243857-1700-46b8-a50b-7c48c6babc4d)
   )
 
-  (hierarchical_label "ENET_MDIO" (shape input) (at 118.11 118.11 180)
+  (hierarchical_label "ENET_MDIO" (shape bidirectional) (at 118.11 118.11 180)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 504bb4b1-d484-44d2-84a2-6554b9e1655c)
   )

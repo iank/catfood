@@ -103,7 +103,9 @@ Total: 625mA -> 750mA
 
 ### USB
 
-- TODO: direction, version, bus detect, power supply/limits
+- Power (5V 3A) will be provided to the board using USB_OTG1, a USB-C 2.0 device port.
+- USB_OTG2 will be a type A 2.0 host port
+- TODO: USB_OTG2 limit
 
 ## Enclosure
 
