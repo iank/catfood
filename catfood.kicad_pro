@@ -350,10 +350,6 @@
       "GPIO"
     ],
     [
-      "9e9d365b-50b6-4e60-9e2a-c60cbf357141",
-      "Connectors & Debug"
-    ],
-    [
       "f3ebd76f-b12f-4b33-bd17-edae6bffa200",
       "SoC Clock & Ctrl"
     ]
