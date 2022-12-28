@@ -61,11 +61,11 @@
         )
       )
     )
-    (symbol "MCIMX6YxxVMxxxx_1" (in_bom yes) (on_board yes)
+    (symbol "catfood:MCIMX6YxxVMxxxx" (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at -19.05 27.94 0)
         (effects (font (size 1.27 1.27)))
       )
-      (property "Value" "MCIMX6YxxVMxxxx_1" (id 1) (at 10.16 27.94 0)
+      (property "Value" "MCIMX6YxxVMxxxx" (id 1) (at 10.16 27.94 0)
         (effects (font (size 1.27 1.27)))
       )
       (property "Footprint" "" (id 2) (at -10.16 19.05 0)
@@ -80,7 +80,7 @@
       (property "ki_description" "NXP i.MX6ULL, 14x14mm 0.8mm-pitch BGA" (id 5) (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (symbol "MCIMX6YxxVMxxxx_1_1_0"
+      (symbol "MCIMX6YxxVMxxxx_1_0"
         (text "i.MX6ULL - Power" (at -1.27 25.4 0)
           (effects (font (size 1.27 1.27)))
         )
@@ -381,13 +381,13 @@
           (number "U17" (effects (font (size 1.27 1.27))))
         )
       )
-      (symbol "MCIMX6YxxVMxxxx_1_1_1"
+      (symbol "MCIMX6YxxVMxxxx_1_1"
         (rectangle (start -15.24 26.67) (end 15.24 -31.75)
           (stroke (width 0) (type default) (color 0 0 0 0))
           (fill (type none))
         )
       )
-      (symbol "MCIMX6YxxVMxxxx_1_2_0"
+      (symbol "MCIMX6YxxVMxxxx_2_0"
         (rectangle (start -20.32 25.4) (end 15.24 -60.96)
           (stroke (width 0) (type default) (color 0 0 0 0))
           (fill (type none))
@@ -584,7 +584,7 @@
           (number "U9" (effects (font (size 1.27 1.27))))
         )
       )
-      (symbol "MCIMX6YxxVMxxxx_1_3_0"
+      (symbol "MCIMX6YxxVMxxxx_3_0"
         (text "i.MX6ULL - DDR" (at -1.27 25.4 0)
           (effects (font (size 1.27 1.27)))
         )
@@ -837,13 +837,13 @@
           (number "U8" (effects (font (size 1.27 1.27))))
         )
       )
-      (symbol "MCIMX6YxxVMxxxx_1_3_1"
+      (symbol "MCIMX6YxxVMxxxx_3_1"
         (rectangle (start -15.24 26.67) (end 15.24 -64.77)
           (stroke (width 0) (type default) (color 0 0 0 0))
           (fill (type none))
         )
       )
-      (symbol "MCIMX6YxxVMxxxx_1_4_0"
+      (symbol "MCIMX6YxxVMxxxx_4_0"
         (text "i.MX6ULL - LCD" (at -1.27 25.4 0)
           (effects (font (size 1.27 1.27)))
         )
@@ -968,13 +968,13 @@
           (number "E9" (effects (font (size 1.27 1.27))))
         )
       )
-      (symbol "MCIMX6YxxVMxxxx_1_4_1"
+      (symbol "MCIMX6YxxVMxxxx_4_1"
         (rectangle (start -15.24 26.67) (end 15.24 -39.37)
           (stroke (width 0) (type default) (color 0 0 0 0))
           (fill (type none))
         )
       )
-      (symbol "MCIMX6YxxVMxxxx_1_5_0"
+      (symbol "MCIMX6YxxVMxxxx_5_0"
         (text "i.MX6ULL - CSI" (at -1.27 25.4 0)
           (effects (font (size 1.27 1.27)))
         )
@@ -1031,13 +1031,13 @@
           (number "F5" (effects (font (size 1.27 1.27))))
         )
       )
-      (symbol "MCIMX6YxxVMxxxx_1_5_1"
+      (symbol "MCIMX6YxxVMxxxx_5_1"
         (rectangle (start -15.24 26.67) (end 15.24 -11.43)
           (stroke (width 0) (type default) (color 0 0 0 0))
           (fill (type none))
         )
       )
-      (symbol "MCIMX6YxxVMxxxx_1_6_0"
+      (symbol "MCIMX6YxxVMxxxx_6_0"
         (text "i.MX6ULL - USB" (at -1.27 25.4 0)
           (effects (font (size 1.27 1.27)))
         )
@@ -1074,13 +1074,13 @@
           (number "U16" (effects (font (size 1.27 1.27))))
         )
       )
-      (symbol "MCIMX6YxxVMxxxx_1_6_1"
+      (symbol "MCIMX6YxxVMxxxx_6_1"
         (rectangle (start -15.24 26.67) (end 17.78 -3.81)
           (stroke (width 0) (type default) (color 0 0 0 0))
           (fill (type none))
         )
       )
-      (symbol "MCIMX6YxxVMxxxx_1_7_0"
+      (symbol "MCIMX6YxxVMxxxx_7_0"
         (text "i.MX6ULL - ADC" (at -1.27 25.4 0)
           (effects (font (size 1.27 1.27)))
         )
@@ -1093,13 +1093,13 @@
           (number "M13" (effects (font (size 1.27 1.27))))
         )
       )
-      (symbol "MCIMX6YxxVMxxxx_1_7_1"
+      (symbol "MCIMX6YxxVMxxxx_7_1"
         (rectangle (start -15.24 26.67) (end 10.16 15.24)
           (stroke (width 0) (type default) (color 0 0 0 0))
           (fill (type none))
         )
       )
-      (symbol "MCIMX6YxxVMxxxx_1_8_0"
+      (symbol "MCIMX6YxxVMxxxx_8_0"
         (text "i.MX6ULL - Ethernet" (at -1.27 25.4 0)
           (effects (font (size 1.27 1.27)))
         )
@@ -1172,13 +1172,13 @@
           (number "F16" (effects (font (size 1.27 1.27))))
         )
       )
-      (symbol "MCIMX6YxxVMxxxx_1_8_1"
+      (symbol "MCIMX6YxxVMxxxx_8_1"
         (rectangle (start -15.24 26.67) (end 15.24 -25.4)
           (stroke (width 0) (type default) (color 0 0 0 0))
           (fill (type none))
         )
       )
-      (symbol "MCIMX6YxxVMxxxx_1_9_0"
+      (symbol "MCIMX6YxxVMxxxx_9_0"
         (text "i.MX6ULL - SD" (at -1.27 25.4 0)
           (effects (font (size 1.27 1.27)))
         )
@@ -1211,13 +1211,13 @@
           (number "C4" (effects (font (size 1.27 1.27))))
         )
       )
-      (symbol "MCIMX6YxxVMxxxx_1_9_1"
+      (symbol "MCIMX6YxxVMxxxx_9_1"
         (rectangle (start -15.24 26.67) (end 15.24 3.81)
           (stroke (width 0) (type default) (color 0 0 0 0))
           (fill (type none))
         )
       )
-      (symbol "MCIMX6YxxVMxxxx_1_10_0"
+      (symbol "MCIMX6YxxVMxxxx_10_0"
         (text "i.MX6ULL - NAND" (at -1.27 25.4 0)
           (effects (font (size 1.27 1.27)))
         )
@@ -1294,13 +1294,13 @@
           (number "E7" (effects (font (size 1.27 1.27))))
         )
       )
-      (symbol "MCIMX6YxxVMxxxx_1_10_1"
+      (symbol "MCIMX6YxxVMxxxx_10_1"
         (rectangle (start -15.24 26.67) (end 15.24 -26.67)
           (stroke (width 0) (type default) (color 0 0 0 0))
           (fill (type none))
         )
       )
-      (symbol "MCIMX6YxxVMxxxx_1_11_0"
+      (symbol "MCIMX6YxxVMxxxx_11_0"
         (text "i.MX6ULL - GPIO" (at -1.27 25.4 0)
           (effects (font (size 1.27 1.27)))
         )
@@ -1349,7 +1349,7 @@
           (number "N17" (effects (font (size 1.27 1.27))))
         )
       )
-      (symbol "MCIMX6YxxVMxxxx_1_11_1"
+      (symbol "MCIMX6YxxVMxxxx_11_1"
         (rectangle (start -15.24 26.67) (end 15.24 -3.81)
           (stroke (width 0) (type default) (color 0 0 0 0))
           (fill (type none))
@@ -1605,7 +1605,6 @@
       )
     )
   )
-
 
   (junction (at 76.2 69.85) (diameter 0) (color 0 0 0 0)
     (uuid 017d5c62-67c9-48cf-b226-7edcfe6b62c6)
@@ -2467,7 +2466,7 @@
     (pin "2" (uuid 7117aae3-5e10-4151-8797-5d26d003e2e9))
   )
 
-  (symbol (lib_name "MCIMX6YxxVMxxxx_1") (lib_id "catfood:MCIMX6YxxVMxxxx") (at 142.24 88.9 0) (unit 1)
+  (symbol (lib_id "catfood:MCIMX6YxxVMxxxx") (at 142.24 88.9 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid acac9d15-d872-48ce-9357-e47d289dfdaf)
     (property "Reference" "U4" (id 0) (at 142.24 57.15 0))

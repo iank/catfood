@@ -211,7 +211,7 @@
           (name "VSS" (effects (font (size 1.27 1.27))))
           (number "G7" (effects (font (size 1.27 1.27))))
         )
-        (pin passive line (at 17.78 7.62 180) (length 2.54)
+        (pin passive line (at 17.78 1.27 180) (length 2.54)
           (name "VDD_SOC_CAP" (effects (font (size 1.27 1.27))))
           (number "G8" (effects (font (size 1.27 1.27))))
         )
@@ -235,7 +235,7 @@
           (name "VSS" (effects (font (size 1.27 1.27))))
           (number "H7" (effects (font (size 1.27 1.27))))
         )
-        (pin passive line (at 17.78 7.62 180) (length 2.54) hide
+        (pin passive line (at 17.78 1.27 180) (length 2.54) hide
           (name "VDD_SOC_CAP" (effects (font (size 1.27 1.27))))
           (number "H8" (effects (font (size 1.27 1.27))))
         )
@@ -247,7 +247,7 @@
           (name "VDD_SOC_IN" (effects (font (size 1.27 1.27))))
           (number "J10" (effects (font (size 1.27 1.27))))
         )
-        (pin passive line (at 17.78 7.62 180) (length 2.54) hide
+        (pin passive line (at 17.78 1.27 180) (length 2.54) hide
           (name "VDD_SOC_CAP" (effects (font (size 1.27 1.27))))
           (number "J11" (effects (font (size 1.27 1.27))))
         )
@@ -263,7 +263,7 @@
           (name "VSS" (effects (font (size 1.27 1.27))))
           (number "J7" (effects (font (size 1.27 1.27))))
         )
-        (pin passive line (at 17.78 7.62 180) (length 2.54) hide
+        (pin passive line (at 17.78 1.27 180) (length 2.54) hide
           (name "VDD_SOC_CAP" (effects (font (size 1.27 1.27))))
           (number "J8" (effects (font (size 1.27 1.27))))
         )
@@ -275,7 +275,7 @@
           (name "VDD_SOC_IN" (effects (font (size 1.27 1.27))))
           (number "K10" (effects (font (size 1.27 1.27))))
         )
-        (pin passive line (at 17.78 7.62 180) (length 2.54) hide
+        (pin passive line (at 17.78 1.27 180) (length 2.54) hide
           (name "VDD_SOC_CAP" (effects (font (size 1.27 1.27))))
           (number "K11" (effects (font (size 1.27 1.27))))
         )
@@ -287,7 +287,7 @@
           (name "VSS" (effects (font (size 1.27 1.27))))
           (number "K7" (effects (font (size 1.27 1.27))))
         )
-        (pin passive line (at 17.78 7.62 180) (length 2.54) hide
+        (pin passive line (at 17.78 1.27 180) (length 2.54) hide
           (name "VDD_SOC_CAP" (effects (font (size 1.27 1.27))))
           (number "K8" (effects (font (size 1.27 1.27))))
         )
@@ -295,11 +295,11 @@
           (name "VDD_SOC_IN" (effects (font (size 1.27 1.27))))
           (number "K9" (effects (font (size 1.27 1.27))))
         )
-        (pin passive line (at 17.78 7.62 180) (length 2.54) hide
+        (pin passive line (at 17.78 1.27 180) (length 2.54) hide
           (name "VDD_SOC_CAP" (effects (font (size 1.27 1.27))))
           (number "L10" (effects (font (size 1.27 1.27))))
         )
-        (pin passive line (at 17.78 7.62 180) (length 2.54) hide
+        (pin passive line (at 17.78 1.27 180) (length 2.54) hide
           (name "VDD_SOC_CAP" (effects (font (size 1.27 1.27))))
           (number "L11" (effects (font (size 1.27 1.27))))
         )
@@ -315,11 +315,11 @@
           (name "VSS" (effects (font (size 1.27 1.27))))
           (number "L7" (effects (font (size 1.27 1.27))))
         )
-        (pin passive line (at 17.78 7.62 180) (length 2.54) hide
+        (pin passive line (at 17.78 1.27 180) (length 2.54) hide
           (name "VDD_SOC_CAP" (effects (font (size 1.27 1.27))))
           (number "L8" (effects (font (size 1.27 1.27))))
         )
-        (pin passive line (at 17.78 7.62 180) (length 2.54) hide
+        (pin passive line (at 17.78 1.27 180) (length 2.54) hide
           (name "VDD_SOC_CAP" (effects (font (size 1.27 1.27))))
           (number "L9" (effects (font (size 1.27 1.27))))
         )
@@ -347,6 +347,10 @@
           (name "VSS" (effects (font (size 1.27 1.27))))
           (number "M9" (effects (font (size 1.27 1.27))))
         )
+        (pin passive line (at 17.78 -29.21 180) (length 2.54)
+          (name "VDD_SNVS_CAP" (effects (font (size 1.27 1.27))))
+          (number "N12" (effects (font (size 1.27 1.27))))
+        )
         (pin power_in line (at -17.78 1.27 0) (length 2.54)
           (name "VDD_HIGH_IN" (effects (font (size 1.27 1.27))))
           (number "N13" (effects (font (size 1.27 1.27))))
@@ -363,15 +367,19 @@
           (name "VDD_SNVS_IN" (effects (font (size 1.27 1.27))))
           (number "P12" (effects (font (size 1.27 1.27))))
         )
+        (pin passive line (at 17.78 -24.13 180) (length 2.54)
+          (name "NVCC_PLL" (effects (font (size 1.27 1.27))))
+          (number "P13" (effects (font (size 1.27 1.27))))
+        )
         (pin passive line (at -17.78 -29.21 0) (length 2.54) hide
           (name "VSS" (effects (font (size 1.27 1.27))))
           (number "R11" (effects (font (size 1.27 1.27))))
         )
-        (pin passive line (at 17.78 -3.81 180) (length 2.54)
+        (pin passive line (at 17.78 -13.97 180) (length 2.54)
           (name "VDD_HIGH_CAP" (effects (font (size 1.27 1.27))))
           (number "R14" (effects (font (size 1.27 1.27))))
         )
-        (pin passive line (at 17.78 -3.81 180) (length 2.54) hide
+        (pin passive line (at 17.78 -13.97 180) (length 2.54) hide
           (name "VDD_HIGH_CAP" (effects (font (size 1.27 1.27))))
           (number "R15" (effects (font (size 1.27 1.27))))
         )
@@ -1758,7 +1766,6 @@
     )
   )
 
-
   (junction (at 144.145 59.055) (diameter 0) (color 0 0 0 0)
     (uuid 00ee0f59-0807-4053-abcd-48f67fb12d6f)
   )
@@ -2308,10 +2315,12 @@
     (pin "M7" (uuid 7d2ba47a-7fd2-475d-900b-853a8996da11))
     (pin "M8" (uuid 33ceba68-5847-495c-ad1e-baf254a0df74))
     (pin "M9" (uuid 2f209ee4-3f8b-4a4e-b338-e2ee79674540))
+    (pin "N12" (uuid 17369646-cd7f-4473-8d4d-a416e5aa854f))
     (pin "N13" (uuid 6e7f3107-2fa5-4acf-bf7c-756f8e249813))
     (pin "N3" (uuid 35787090-7ff8-42ac-a0e5-d2e24dc73c53))
     (pin "N5" (uuid a0902e1a-5faf-45d4-a8a4-de2539533a06))
     (pin "P12" (uuid 4c9812f0-324a-4544-be27-98a214da8fc1))
+    (pin "P13" (uuid 9462d668-03a9-4a49-9bd6-fbeb279def99))
     (pin "R11" (uuid 07e12ae3-3074-4ff8-8eb0-ec9a02b798b7))
     (pin "R14" (uuid dfda5766-4549-4029-879e-d77808d11e86))
     (pin "R15" (uuid 3bd9b961-f8ad-420c-9fea-79a8285dc1a9))
