@@ -543,6 +543,21 @@
   )
 
   (symbol_instances
+    (path "/8268d581-e104-4459-841c-45d3bd21be9e/33cf676f-c125-451b-a499-7062d5f6b772"
+      (reference "#FLG01") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/8268d581-e104-4459-841c-45d3bd21be9e/b77a4890-5694-4f27-8ac8-4a1147ff3843"
+      (reference "#FLG02") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/e1490e46-0057-4bf0-bc0e-723ccd3e21a2/dec7d450-01f8-421b-8278-6e2bfcaf57fb"
+      (reference "#FLG04") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/2ab15384-2aea-4732-9049-deba0d18aefc/3fee3d12-8b69-4ad6-bdc7-2ffa0e10c87c"
+      (reference "#FLG0101") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/a3321ecb-7e45-4b88-8ac6-91bd0372968a/c88468a9-86e7-4d9d-b204-308435e9f8a5"
+      (reference "#FLG0102") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
     (path "/62998a85-0d86-4372-aa3b-fbfdab3be08a"
       (reference "#PWR01") (unit 1) (value "GND") (footprint "")
     )

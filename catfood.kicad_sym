@@ -1127,7 +1127,7 @@
         (name "VDD33" (effects (font (size 1.27 1.27))))
         (number "7" (effects (font (size 1.27 1.27))))
       )
-      (pin power_in line (at 36.83 6.35 270) (length 2.54)
+      (pin passive line (at 36.83 6.35 270) (length 2.54)
         (name "VDD_CORE" (effects (font (size 1.27 1.27))))
         (number "8" (effects (font (size 1.27 1.27))))
       )
