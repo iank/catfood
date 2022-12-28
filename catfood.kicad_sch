@@ -1054,10 +1054,10 @@
       (reference "C34") (unit 1) (value "1uF 0402") (footprint "")
     )
     (path "/8268d581-e104-4459-841c-45d3bd21be9e/1e381504-b7bf-44c4-ad5c-2c9dbf89e774"
-      (reference "C35") (unit 1) (value "1uF 0603") (footprint "")
+      (reference "C35") (unit 1) (value "1uF 0402") (footprint "")
     )
     (path "/8268d581-e104-4459-841c-45d3bd21be9e/89c81120-294d-470f-abf0-69c2f0234f04"
-      (reference "C36") (unit 1) (value "1uF 0603") (footprint "")
+      (reference "C36") (unit 1) (value "1uF 0402") (footprint "")
     )
     (path "/8268d581-e104-4459-841c-45d3bd21be9e/7b61555f-3201-4817-97a0-aceac9651b47"
       (reference "C37") (unit 1) (value "0.1uF 0402") (footprint "")
