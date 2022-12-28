@@ -324,7 +324,7 @@
       (symbol "AP22615AWU-7_1_1"
         (pin power_out line (at 12.7 3.81 180) (length 2.54)
           (name "VOUT" (effects (font (size 1.27 1.27))))
-          (number "" (effects (font (size 1.27 1.27))))
+          (number "1" (effects (font (size 1.27 1.27))))
         )
         (pin power_in line (at -11.43 -8.89 0) (length 2.54)
           (name "GND" (effects (font (size 1.27 1.27))))
@@ -1448,7 +1448,7 @@
     (property "Datasheet" "" (id 3) (at 118.11 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid 44f1490f-358e-42cf-81c8-73e7f8bb1e24))
+    (pin "1" (uuid 3b84d10e-59b3-497b-bdcc-cc7cb731765a))
     (pin "2" (uuid 1f894a71-fa2d-415b-9320-889303bc6206))
     (pin "3" (uuid ec5e9d0d-30c7-4063-b350-d5533019c668))
     (pin "4" (uuid 38132d83-fda4-4364-8c0c-a62379a734a8))
