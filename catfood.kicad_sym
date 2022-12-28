@@ -1091,7 +1091,7 @@
         (name "RXP" (effects (font (size 1.27 1.27))))
         (number "32" (effects (font (size 1.27 1.27))))
       )
-      (pin power_in line (at 27.94 6.35 270) (length 2.54) hide
+      (pin passive line (at 27.94 6.35 270) (length 2.54) hide
         (name "VDD33A" (effects (font (size 1.27 1.27))))
         (number "33" (effects (font (size 1.27 1.27))))
       )
@@ -1099,7 +1099,7 @@
         (name "EXRES1" (effects (font (size 1.27 1.27))))
         (number "34" (effects (font (size 1.27 1.27))))
       )
-      (pin power_in line (at 27.94 6.35 270) (length 2.54) hide
+      (pin passive line (at 27.94 6.35 270) (length 2.54) hide
         (name "VDD33A" (effects (font (size 1.27 1.27))))
         (number "35" (effects (font (size 1.27 1.27))))
       )
