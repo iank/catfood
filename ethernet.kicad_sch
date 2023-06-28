@@ -8347,7 +8347,7 @@
             (effects 
                 (font 
                     (size 1.27 1.27)) hide)) 
-        (property "Datasheet" "" 
+        (property "Datasheet" "~" 
             (id 3) 
             (at 313.69 115.57 0) 
             (effects 
@@ -8384,7 +8384,23 @@
         (pin "8" 
             (uuid ed08c6a9-6768-4ab6-8e1a-5b9180cd1664)) 
         (pin "9" 
-            (uuid d1c1e9f2-3fd7-44f1-a260-05b91e9b08fa))) 
+            (uuid d1c1e9f2-3fd7-44f1-a260-05b91e9b08fa)) 
+        (property "Manufacturer" "Taoglas Limited" 
+            (id 4) 
+            (at 319.3669 124.46 0) 
+            (effects hide)) 
+        (property "MfgPartNo" "TM1188NL" 
+            (id 5) 
+            (at 319.3669 127.0 0) 
+            (effects hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 319.3669 129.54 0) 
+            (effects hide)) 
+        (property "VendorPartNo" "931-TM1188NL-ND" 
+            (id 7) 
+            (at 319.3669 132.07999999999998 0) 
+            (effects hide))) 
     (symbol 
         (lib_id "Device:R_Small") 
         (at 198.12 218.44 0) 
@@ -8422,7 +8438,35 @@
         (pin "1" 
             (uuid 8de5690a-2347-4fc1-8401-6cde6800ddd4)) 
         (pin "2" 
-            (uuid ccda3391-5c4b-4154-9e7a-0b6eb78d9857))) 
+            (uuid ccda3391-5c4b-4154-9e7a-0b6eb78d9857)) 
+        (property "Manufacturer" "YAGEO" 
+            (id 4) 
+            (at 200.66 227.3299 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "RC0402FR-0712K4L" 
+            (id 5) 
+            (at 200.66 229.8699 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 200.66 232.40990000000002 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "311-12.4KLRCT-ND" 
+            (id 7) 
+            (at 200.66 234.9499 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "Device:C_Small") 
         (at 160.02 190.5 0) 
@@ -8460,7 +8504,35 @@
         (pin "1" 
             (uuid 1aba82d0-03cc-428b-919a-99e04ad4afa1)) 
         (pin "2" 
-            (uuid da96c95c-055e-4c14-8b29-bcacedd6e36c))) 
+            (uuid da96c95c-055e-4c14-8b29-bcacedd6e36c)) 
+        (property "Manufacturer" "YAGEO" 
+            (id 4) 
+            (at 162.56 199.3962 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "CC0402JRNPO9BN180" 
+            (id 5) 
+            (at 162.56 201.93619999999999 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 162.56 204.4762 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "311-1415-1-ND" 
+            (id 7) 
+            (at 162.56 207.0162 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "Device:R_Small") 
         (at 105.41 109.22 0) 
@@ -8498,7 +8570,35 @@
         (pin "1" 
             (uuid 48f7610d-a13b-454d-9309-79bac09f5143)) 
         (pin "2" 
-            (uuid 15792089-4a64-4e00-a1fd-9521d66d31f5))) 
+            (uuid 15792089-4a64-4e00-a1fd-9521d66d31f5)) 
+        (property "Manufacturer" "YAGEO" 
+            (id 4) 
+            (at 107.95 118.1099 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "RC0402JR-0710KL" 
+            (id 5) 
+            (at 107.95 120.6499 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 107.95 123.1899 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "311-10KJRCT-ND" 
+            (id 7) 
+            (at 107.95 125.7299 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "catfood:RClamp3374N") 
         (at 321.31 201.93 0) 
@@ -8519,7 +8619,7 @@
             (effects 
                 (font 
                     (size 1.27 1.27)) hide)) 
-        (property "Datasheet" "" 
+        (property "Datasheet" "~" 
             (id 3) 
             (at 321.31 201.93 0) 
             (effects 
@@ -8550,7 +8650,23 @@
         (pin "8" 
             (uuid e55d1195-fc6f-40d7-a43b-a17df4b24262)) 
         (pin "9" 
-            (uuid f6de4617-0a2f-4b4b-8397-dbfa05e42a4e))) 
+            (uuid f6de4617-0a2f-4b4b-8397-dbfa05e42a4e)) 
+        (property "Manufacturer" "Semtech Corporation" 
+            (id 4) 
+            (at 312.42 200.025 0) 
+            (effects hide)) 
+        (property "MfgPartNo" "RCLAMP3374N.TCT" 
+            (id 5) 
+            (at 312.42 202.565 0) 
+            (effects hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 312.42 205.10500000000002 0) 
+            (effects hide)) 
+        (property "VendorPartNo" "RCLAMP3374NTCTCT-ND" 
+            (id 7) 
+            (at 312.42 207.645 0) 
+            (effects hide))) 
     (symbol 
         (lib_id "Device:R_Small") 
         (at 280.67 113.03 0) 
@@ -8588,7 +8704,35 @@
         (pin "1" 
             (uuid 13068f07-4799-4c28-bbb9-1fb6a83ca041)) 
         (pin "2" 
-            (uuid f4ceda19-ab52-4eb0-94a4-b02bfc64303e))) 
+            (uuid f4ceda19-ab52-4eb0-94a4-b02bfc64303e)) 
+        (property "Manufacturer" "YAGEO" 
+            (id 4) 
+            (at 283.21 121.9199 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "RC0402FR-0749R9L" 
+            (id 5) 
+            (at 283.21 124.4599 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 283.21 126.9999 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "311-49.9LRCT-ND" 
+            (id 7) 
+            (at 283.21 129.5399 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "Device:C_Small") 
         (at 295.91 163.83 0) 
@@ -8626,7 +8770,35 @@
         (pin "1" 
             (uuid 9edc8bcb-6058-4833-a706-73f0b4d21bab)) 
         (pin "2" 
-            (uuid 3aa11ea9-bc62-46c3-a5c3-0452ad43340c))) 
+            (uuid 3aa11ea9-bc62-46c3-a5c3-0452ad43340c)) 
+        (property "Manufacturer" "KEMET" 
+            (id 4) 
+            (at 298.45 172.7262 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "C0402C223K5RAC7411" 
+            (id 5) 
+            (at 298.45 175.2662 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 298.45 177.80620000000002 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "399-C0402C223K5RAC7411CT-ND" 
+            (id 7) 
+            (at 298.45 180.3462 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "Device:C_Small") 
         (at 170.18 88.9 0) 
@@ -8663,7 +8835,35 @@
         (pin "1" 
             (uuid c54c3e1a-fcaf-4c1f-819f-c18aea2d3736)) 
         (pin "2" 
-            (uuid d831aa1d-9455-47b4-a66a-169b632baa2b))) 
+            (uuid d831aa1d-9455-47b4-a66a-169b632baa2b)) 
+        (property "Manufacturer" "Murata Electronics" 
+            (id 4) 
+            (at 166.37 100.33 90) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "GRM155R71H104KE14D" 
+            (id 5) 
+            (at 166.37 102.87 90) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 166.37 105.41 90) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "490-10700-1-ND" 
+            (id 7) 
+            (at 166.37 107.95 90) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "power:GND") 
         (at 198.12 226.06 0) 
@@ -8723,7 +8923,23 @@
         (pin "1" 
             (uuid d3b281ac-cd9c-48f9-8498-1eb57ab193d7)) 
         (pin "2" 
-            (uuid 3823ded1-a055-49f8-a9b2-a92cb1829cf2))) 
+            (uuid 3823ded1-a055-49f8-a9b2-a92cb1829cf2)) 
+        (property "Manufacturer" "Murata Electronics" 
+            (id 4) 
+            (at 200.6663 96.52 90) 
+            (effects hide)) 
+        (property "MfgPartNo" "GRM155R71H104KE14D" 
+            (id 5) 
+            (at 200.6663 99.06 90) 
+            (effects hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 200.6663 101.6 90) 
+            (effects hide)) 
+        (property "VendorPartNo" "490-10700-1-ND" 
+            (id 7) 
+            (at 200.6663 104.14 90) 
+            (effects hide))) 
     (symbol 
         (lib_id "power:GND") 
         (at 408.94 165.1 0) 
@@ -8823,7 +9039,35 @@
         (pin "1" 
             (uuid 1125565b-1145-468f-9901-19ab54ca0234)) 
         (pin "2" 
-            (uuid 29f8d86c-7c88-4156-b718-3d5a2277bd1f))) 
+            (uuid 29f8d86c-7c88-4156-b718-3d5a2277bd1f)) 
+        (property "Manufacturer" "Samsung Electro-Mechanics" 
+            (id 4) 
+            (at 19.05 127.00619999999999 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "CL05A224KQ5NNNC" 
+            (id 5) 
+            (at 19.05 129.5462 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 19.05 132.0862 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "1276-1124-1-ND" 
+            (id 7) 
+            (at 19.05 134.62619999999998 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "Device:R_Small") 
         (at 120.65 109.22 0) 
@@ -8861,7 +9105,35 @@
         (pin "1" 
             (uuid f7463412-550c-41a9-861a-a24ecaba682f)) 
         (pin "2" 
-            (uuid bf767b8c-2a41-4666-b99a-dbb3fa76a805))) 
+            (uuid bf767b8c-2a41-4666-b99a-dbb3fa76a805)) 
+        (property "Manufacturer" "YAGEO" 
+            (id 4) 
+            (at 123.19 118.1099 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "RC0402FR-071K5L" 
+            (id 5) 
+            (at 123.19 120.6499 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 123.19 123.1899 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "311-1.50KLRCT-ND" 
+            (id 7) 
+            (at 123.19 125.7299 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "Device:C_Small") 
         (at 200.66 104.14 90) 
@@ -8891,7 +9163,23 @@
         (pin "1" 
             (uuid 7dd0b52f-87ee-4dcd-9d3d-433b2af066e6)) 
         (pin "2" 
-            (uuid c92c3d41-d170-4a75-9710-25261a773623))) 
+            (uuid c92c3d41-d170-4a75-9710-25261a773623)) 
+        (property "Manufacturer" "Samsung Electro-Mechanics" 
+            (id 4) 
+            (at 200.6663 107.95 90) 
+            (effects hide)) 
+        (property "MfgPartNo" "CL10A475KQ8NNNC" 
+            (id 5) 
+            (at 200.6663 110.49000000000001 90) 
+            (effects hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 200.6663 113.03 90) 
+            (effects hide)) 
+        (property "VendorPartNo" "1276-1045-1-ND" 
+            (id 7) 
+            (at 200.6663 115.57000000000001 90) 
+            (effects hide))) 
     (symbol 
         (lib_id "Device:C_Small") 
         (at 355.6 170.18 0) 
@@ -8929,7 +9217,35 @@
         (pin "1" 
             (uuid 1b857111-d192-4246-bbe4-8fad6e246d9f)) 
         (pin "2" 
-            (uuid f860d542-c34d-4f49-a7b0-19b59b7ed3ce))) 
+            (uuid f860d542-c34d-4f49-a7b0-19b59b7ed3ce)) 
+        (property "Manufacturer" "YAGEO" 
+            (id 4) 
+            (at 358.14 179.0762 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "CC1206KKX7RDBB102" 
+            (id 5) 
+            (at 358.14 181.6162 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 358.14 184.1562 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "311-1487-1-ND" 
+            (id 7) 
+            (at 358.14 186.6962 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "Device:C_Small") 
         (at 148.59 88.9 0) 
@@ -8966,7 +9282,35 @@
         (pin "1" 
             (uuid c807f4fa-bb92-4879-86b7-7ef036917dfb)) 
         (pin "2" 
-            (uuid 2ba1c341-403e-47ee-a36d-588e10142349))) 
+            (uuid 2ba1c341-403e-47ee-a36d-588e10142349)) 
+        (property "Manufacturer" "Murata Electronics" 
+            (id 4) 
+            (at 144.78 100.33 90) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "GRM155R71H104KE14D" 
+            (id 5) 
+            (at 144.78 102.87 90) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 144.78 105.41 90) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "490-10700-1-ND" 
+            (id 7) 
+            (at 144.78 107.95 90) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "power:GND") 
         (at 295.91 170.18 0) 
@@ -9035,7 +9379,35 @@
         (pin "1" 
             (uuid 44d482e2-758f-4ab5-98e4-07a6a05fc33d)) 
         (pin "2" 
-            (uuid ac63d5b8-1e79-4e5d-9644-dd9c132e76fa))) 
+            (uuid ac63d5b8-1e79-4e5d-9644-dd9c132e76fa)) 
+        (property "Manufacturer" "Murata Electronics" 
+            (id 4) 
+            (at 224.79 205.7462 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "GRM155R71H104KE14D" 
+            (id 5) 
+            (at 224.79 208.28619999999998 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 224.79 210.8262 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "490-10700-1-ND" 
+            (id 7) 
+            (at 224.79 213.3662 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "Device:R_Small") 
         (at 350.52 152.4 90) 
@@ -9064,7 +9436,23 @@
         (pin "1" 
             (uuid 2b653f05-0707-45b1-aca8-6fe53f0348c0)) 
         (pin "2" 
-            (uuid e9ea3795-8fad-4728-ae48-29ee49ede488))) 
+            (uuid e9ea3795-8fad-4728-ae48-29ee49ede488)) 
+        (property "Manufacturer" "YAGEO" 
+            (id 4) 
+            (at 350.52 160.02 90) 
+            (effects hide)) 
+        (property "MfgPartNo" "RC0402FR-0775RL" 
+            (id 5) 
+            (at 350.52 162.56 90) 
+            (effects hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 350.52 165.10000000000002 90) 
+            (effects hide)) 
+        (property "VendorPartNo" "311-75.0LRCT-ND" 
+            (id 7) 
+            (at 350.52 167.64000000000001 90) 
+            (effects hide))) 
     (symbol 
         (lib_id "Device:R_Small") 
         (at 361.95 160.02 90) 
@@ -9093,7 +9481,23 @@
         (pin "1" 
             (uuid 07c949bd-5092-4f6a-b7f8-1f6ecf7dbb22)) 
         (pin "2" 
-            (uuid 14138c79-14bd-415c-99d0-9fc8cba1bd60))) 
+            (uuid 14138c79-14bd-415c-99d0-9fc8cba1bd60)) 
+        (property "Manufacturer" "YAGEO" 
+            (id 4) 
+            (at 361.95 167.64 90) 
+            (effects hide)) 
+        (property "MfgPartNo" "RC0402FR-0775RL" 
+            (id 5) 
+            (at 361.95 170.17999999999998 90) 
+            (effects hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 361.95 172.72 90) 
+            (effects hide)) 
+        (property "VendorPartNo" "311-75.0LRCT-ND" 
+            (id 7) 
+            (at 361.95 175.26 90) 
+            (effects hide))) 
     (symbol 
         (lib_id "Device:C_Small") 
         (at 138.43 88.9 0) 
@@ -9130,7 +9534,35 @@
         (pin "1" 
             (uuid 1ccc012c-6452-4a94-a19d-749ec9de7cbd)) 
         (pin "2" 
-            (uuid e24a0251-6d08-41e6-bfdd-774ca4272637))) 
+            (uuid e24a0251-6d08-41e6-bfdd-774ca4272637)) 
+        (property "Manufacturer" "Murata Electronics" 
+            (id 4) 
+            (at 134.62 100.33 90) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "GRM155R71H104KE14D" 
+            (id 5) 
+            (at 134.62 102.87 90) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 134.62 105.41 90) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "490-10700-1-ND" 
+            (id 7) 
+            (at 134.62 107.95 90) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "Device:R_Small") 
         (at 392.43 123.19 90) 
@@ -9159,7 +9591,23 @@
         (pin "1" 
             (uuid a87d874f-6e2a-49bc-90ab-a8c9faf92a8d)) 
         (pin "2" 
-            (uuid 1fd8da63-9b79-40f0-a30d-b2579826a023))) 
+            (uuid 1fd8da63-9b79-40f0-a30d-b2579826a023)) 
+        (property "Manufacturer" "Samsung Electro-Mechanics" 
+            (id 4) 
+            (at 387.35 130.81 90) 
+            (effects hide)) 
+        (property "MfgPartNo" "RC1005F331CS" 
+            (id 5) 
+            (at 387.35 133.35 90) 
+            (effects hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 387.35 135.89000000000001 90) 
+            (effects hide)) 
+        (property "VendorPartNo" "1276-3976-1-ND" 
+            (id 7) 
+            (at 387.35 138.43 90) 
+            (effects hide))) 
     (symbol 
         (lib_id "Device:FerriteBead_Small") 
         (at 154.94 69.85 90) 
@@ -9189,7 +9637,23 @@
         (pin "1" 
             (uuid 10a40327-895d-42d8-b86e-96d469005a3a)) 
         (pin "2" 
-            (uuid bab4b70d-68b5-4b6f-a5e8-68f2333e5ad0))) 
+            (uuid bab4b70d-68b5-4b6f-a5e8-68f2333e5ad0)) 
+        (property "Manufacturer" "Laird Signal Integrity Products" 
+            (id 4) 
+            (at 154.9019 73.66 90) 
+            (effects hide)) 
+        (property "MfgPartNo" "LI0402E300R-10" 
+            (id 5) 
+            (at 154.9019 76.2 90) 
+            (effects hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 154.9019 78.74 90) 
+            (effects hide)) 
+        (property "VendorPartNo" "240-2362-1-ND" 
+            (id 7) 
+            (at 154.9019 81.28 90) 
+            (effects hide))) 
     (symbol 
         (lib_id "power:GND") 
         (at 160.02 198.12 0) 
@@ -9257,7 +9721,35 @@
         (pin "1" 
             (uuid 950cf051-8e1b-4c23-b805-d1d8c53abc38)) 
         (pin "2" 
-            (uuid bbcfffbd-5452-405a-99fc-90a34a397fe0))) 
+            (uuid bbcfffbd-5452-405a-99fc-90a34a397fe0)) 
+        (property "Manufacturer" "YAGEO" 
+            (id 4) 
+            (at 182.88 214.6299 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "RC0402JR-0710KL" 
+            (id 5) 
+            (at 182.88 217.16989999999998 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 182.88 219.7099 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "311-10KJRCT-ND" 
+            (id 7) 
+            (at 182.88 222.2499 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "power:GND") 
         (at 149.86 148.59 0) 
@@ -9307,7 +9799,7 @@
             (effects 
                 (font 
                     (size 1.27 1.27)) hide)) 
-        (property "Datasheet" "" 
+        (property "Datasheet" "~" 
             (id 3) 
             (at 38.1 114.3 0) 
             (effects 
@@ -9952,7 +10444,35 @@
         (pin "1" 
             (uuid d2cbc529-190d-450b-8704-5d3120da1ace)) 
         (pin "2" 
-            (uuid 0bb6a274-d92f-472e-b858-a384ecab9b93))) 
+            (uuid 0bb6a274-d92f-472e-b858-a384ecab9b93)) 
+        (property "Manufacturer" "YAGEO" 
+            (id 4) 
+            (at 224.79 193.0399 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "RC0402JR-0710KL" 
+            (id 5) 
+            (at 224.79 195.57989999999998 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 224.79 198.1199 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "311-10KJRCT-ND" 
+            (id 7) 
+            (at 224.79 200.6599 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "Device:R_Small") 
         (at 154.94 182.88 90) 
@@ -9981,7 +10501,23 @@
         (pin "1" 
             (uuid e378029d-a242-446b-b1b6-ebde200e3e1f)) 
         (pin "2" 
-            (uuid 8cbc0fdd-1315-4d23-987e-2eac8008b2ef))) 
+            (uuid 8cbc0fdd-1315-4d23-987e-2eac8008b2ef)) 
+        (property "Manufacturer" "TE Connectivity" 
+            (id 4) 
+            (at 153.67 190.5 90) 
+            (effects hide)) 
+        (property "MfgPartNo" "CRGP0402F10R" 
+            (id 5) 
+            (at 153.67 193.04 90) 
+            (effects hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 153.67 195.58 90) 
+            (effects hide)) 
+        (property "VendorPartNo" "A130331CT-ND" 
+            (id 7) 
+            (at 153.67 198.12 90) 
+            (effects hide))) 
     (symbol 
         (lib_id "catfood:VDD_3V3") 
         (at 180.34 200.66 0) 
@@ -10134,7 +10670,23 @@
         (pin "1" 
             (uuid 2e225637-4e5d-4e30-8710-d39d70512025)) 
         (pin "2" 
-            (uuid 6ba5f0cb-eaa3-4d29-9ffd-1faef08369c5))) 
+            (uuid 6ba5f0cb-eaa3-4d29-9ffd-1faef08369c5)) 
+        (property "Manufacturer" "Samsung Electro-Mechanics" 
+            (id 4) 
+            (at 387.35 161.29 90) 
+            (effects hide)) 
+        (property "MfgPartNo" "RC1005F331CS" 
+            (id 5) 
+            (at 387.35 163.82999999999998 90) 
+            (effects hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 387.35 166.37 90) 
+            (effects hide)) 
+        (property "VendorPartNo" "1276-3976-1-ND" 
+            (id 7) 
+            (at 387.35 168.91 90) 
+            (effects hide))) 
     (symbol 
         (lib_id "catfood:VDD_3V3") 
         (at 88.9 58.42 0) 
@@ -10224,7 +10776,7 @@
             (effects 
                 (font 
                     (size 1.27 1.27)) hide)) 
-        (property "Datasheet" "" 
+        (property "Datasheet" "~" 
             (id 3) 
             (at 156.21 118.11 0) 
             (effects 
@@ -10303,7 +10855,35 @@
         (pin "8" 
             (uuid 6adf38ae-502e-44d9-acd8-9cd9a42f416c)) 
         (pin "9" 
-            (uuid f189a816-91d5-45ba-97c3-7c20e9f504ab))) 
+            (uuid f189a816-91d5-45ba-97c3-7c20e9f504ab)) 
+        (property "Manufacturer" "Microchip Technology" 
+            (id 4) 
+            (at 158.75 121.92 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "LAN8700C-AEZG-TR" 
+            (id 5) 
+            (at 158.75 124.46000000000001 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 158.75 127.0 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "LAN8700C-AEZG-CT-ND" 
+            (id 7) 
+            (at 158.75 129.54000000000002 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "Device:R_Small") 
         (at 350.52 160.02 90) 
@@ -10332,7 +10912,23 @@
         (pin "1" 
             (uuid 5c920afb-7bc9-46ea-8755-befa4668d4cb)) 
         (pin "2" 
-            (uuid 8f83a174-30a9-4e6b-a91a-cd0ef1a8f1fd))) 
+            (uuid 8f83a174-30a9-4e6b-a91a-cd0ef1a8f1fd)) 
+        (property "Manufacturer" "YAGEO" 
+            (id 4) 
+            (at 350.52 167.64 90) 
+            (effects hide)) 
+        (property "MfgPartNo" "RC0402FR-0775RL" 
+            (id 5) 
+            (at 350.52 170.17999999999998 90) 
+            (effects hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 350.52 172.72 90) 
+            (effects hide)) 
+        (property "VendorPartNo" "311-75.0LRCT-ND" 
+            (id 7) 
+            (at 350.52 175.26 90) 
+            (effects hide))) 
     (symbol 
         (lib_id "catfood:VDD_3V3") 
         (at 16.51 106.68 0) 
@@ -10500,7 +11096,35 @@
         (pin "1" 
             (uuid 3496b094-ea09-469b-8b60-b43b83ddf1f2)) 
         (pin "2" 
-            (uuid 4d7e4324-7f9e-4e4f-bd5f-e9ad6d99cecf))) 
+            (uuid 4d7e4324-7f9e-4e4f-bd5f-e9ad6d99cecf)) 
+        (property "Manufacturer" "TE Connectivity" 
+            (id 4) 
+            (at 298.45 121.9199 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "CRGP0402F10R" 
+            (id 5) 
+            (at 298.45 124.4599 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 298.45 126.9999 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "A130331CT-ND" 
+            (id 7) 
+            (at 298.45 129.5399 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "Device:R_Small") 
         (at 361.95 152.4 90) 
@@ -10529,7 +11153,23 @@
         (pin "1" 
             (uuid be20ab60-c82d-429e-a2dc-50d12deee68a)) 
         (pin "2" 
-            (uuid d387c67a-3669-4210-9964-188dbe127364))) 
+            (uuid d387c67a-3669-4210-9964-188dbe127364)) 
+        (property "Manufacturer" "YAGEO" 
+            (id 4) 
+            (at 361.95 160.02 90) 
+            (effects hide)) 
+        (property "MfgPartNo" "RC0402FR-0775RL" 
+            (id 5) 
+            (at 361.95 162.56 90) 
+            (effects hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 361.95 165.10000000000002 90) 
+            (effects hide)) 
+        (property "VendorPartNo" "311-75.0LRCT-ND" 
+            (id 7) 
+            (at 361.95 167.64000000000001 90) 
+            (effects hide))) 
     (symbol 
         (lib_id "catfood:TE_1888250-1") 
         (at 410.21 133.35 0) 
@@ -10594,7 +11234,35 @@
         (pin "SH3" 
             (uuid ee16f4ab-30d1-4d6a-8188-73abf6d9b421)) 
         (pin "SH4" 
-            (uuid 5afd2f30-b242-4a21-bebf-c1e0f94d311c))) 
+            (uuid 5afd2f30-b242-4a21-bebf-c1e0f94d311c)) 
+        (property "Manufacturer" "TE Connectivity" 
+            (id 4) 
+            (at 401.32 129.54 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "1888250-1" 
+            (id 5) 
+            (at 401.32 132.07999999999998 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 401.32 134.62 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "A98526-ND" 
+            (id 7) 
+            (at 401.32 137.16 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "Device:C_Small") 
         (at 160.02 88.9 0) 
@@ -10631,7 +11299,35 @@
         (pin "1" 
             (uuid 6872ec3d-926b-41bb-90d4-118a3dfaa6e0)) 
         (pin "2" 
-            (uuid d5e6d4a2-18dc-45a6-a9ce-487cd7b52884))) 
+            (uuid d5e6d4a2-18dc-45a6-a9ce-487cd7b52884)) 
+        (property "Manufacturer" "Murata Electronics" 
+            (id 4) 
+            (at 156.21 100.33 90) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "GRM155R71H104KE14D" 
+            (id 5) 
+            (at 156.21 102.87 90) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 156.21 105.41 90) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "490-10700-1-ND" 
+            (id 7) 
+            (at 156.21 107.95 90) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "Device:R_Small") 
         (at 250.19 113.03 0) 
@@ -10669,7 +11365,35 @@
         (pin "1" 
             (uuid 8d4a6607-c872-40b1-b5c1-3875253d36ad)) 
         (pin "2" 
-            (uuid ebdb06cf-3ba9-4ab4-874b-1c5b8359c0cc))) 
+            (uuid ebdb06cf-3ba9-4ab4-874b-1c5b8359c0cc)) 
+        (property "Manufacturer" "YAGEO" 
+            (id 4) 
+            (at 252.73 121.9199 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "RC0402FR-0749R9L" 
+            (id 5) 
+            (at 252.73 124.4599 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 252.73 126.9999 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "311-49.9LRCT-ND" 
+            (id 7) 
+            (at 252.73 129.5399 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "Device:C_Small") 
         (at 180.34 88.9 0) 
@@ -10706,7 +11430,35 @@
         (pin "1" 
             (uuid f0a35412-c668-4d74-b147-9a2d9b4e949c)) 
         (pin "2" 
-            (uuid 20df18e8-758a-4d22-ac2d-cfd4cc9aa29e))) 
+            (uuid 20df18e8-758a-4d22-ac2d-cfd4cc9aa29e)) 
+        (property "Manufacturer" "Murata Electronics" 
+            (id 4) 
+            (at 176.53 100.33 90) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "GRM155R71H104KE14D" 
+            (id 5) 
+            (at 176.53 102.87 90) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 176.53 105.41 90) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "490-10700-1-ND" 
+            (id 7) 
+            (at 176.53 107.95 90) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "Device:R_Small") 
         (at 265.43 113.03 0) 
@@ -10744,7 +11496,35 @@
         (pin "1" 
             (uuid f1606b0d-9315-4b51-aeaa-901cecae539d)) 
         (pin "2" 
-            (uuid 99a44c13-c288-4419-9f95-d8b4e1596ea8))) 
+            (uuid 99a44c13-c288-4419-9f95-d8b4e1596ea8)) 
+        (property "Manufacturer" "YAGEO" 
+            (id 4) 
+            (at 267.97 121.9199 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "RC0402FR-0749R9L" 
+            (id 5) 
+            (at 267.97 124.4599 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 267.97 126.9999 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "311-49.9LRCT-ND" 
+            (id 7) 
+            (at 267.97 129.5399 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "power:GND") 
         (at 222.25 205.74 0) 
@@ -10812,4 +11592,32 @@
         (pin "1" 
             (uuid 73c8b5fc-d260-4391-b803-f00ea1780a29)) 
         (pin "2" 
-            (uuid 61831027-d97b-459e-8bfd-f1a49421aa8f))))
+            (uuid 61831027-d97b-459e-8bfd-f1a49421aa8f)) 
+        (property "Manufacturer" "YAGEO" 
+            (id 4) 
+            (at 237.49 121.9199 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "RC0402FR-0749R9L" 
+            (id 5) 
+            (at 237.49 124.4599 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 237.49 126.9999 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "311-49.9LRCT-ND" 
+            (id 7) 
+            (at 237.49 129.5399 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))))

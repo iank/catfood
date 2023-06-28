@@ -380,7 +380,35 @@
             (at 217.17 74.93 0) 
             (effects 
                 (font 
-                    (size 1.27 1.27)) hide))) 
+                    (size 1.27 1.27)) hide)) 
+        (property "Manufacturer" "N/A" 
+            (id 4) 
+            (at 220.345 83.81989999999999 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "N/A" 
+            (id 5) 
+            (at 220.345 86.3599 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "N/A" 
+            (id 6) 
+            (at 220.345 88.89989999999999 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "N/A" 
+            (id 7) 
+            (at 220.345 91.4399 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "power:GND") 
         (at 179.705 90.805 0) 
@@ -447,7 +475,35 @@
                 (font 
                     (size 1.27 1.27)) hide)) 
         (pin "1" 
-            (uuid 668d256b-2604-40b6-a0cc-729ccde4e7b8))) 
+            (uuid 668d256b-2604-40b6-a0cc-729ccde4e7b8)) 
+        (property "Manufacturer" "N/A" 
+            (id 4) 
+            (at 182.245 93.3449 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "N/A" 
+            (id 5) 
+            (at 182.245 95.8849 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "N/A" 
+            (id 6) 
+            (at 182.245 98.4249 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "N/A" 
+            (id 7) 
+            (at 182.245 100.9649 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "power:GND") 
         (at 179.705 74.295 0) 
@@ -514,7 +570,35 @@
                 (font 
                     (size 1.27 1.27)) hide)) 
         (pin "1" 
-            (uuid f7349b66-076b-4285-b23d-1b1db119de49))) 
+            (uuid f7349b66-076b-4285-b23d-1b1db119de49)) 
+        (property "Manufacturer" "N/A" 
+            (id 4) 
+            (at 182.245 76.83489999999999 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "N/A" 
+            (id 5) 
+            (at 182.245 79.3749 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "N/A" 
+            (id 6) 
+            (at 182.245 81.91489999999999 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "N/A" 
+            (id 7) 
+            (at 182.245 84.4549 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "Mechanical:MountingHole") 
         (at 217.17 87.63 0) 
@@ -548,7 +632,35 @@
             (at 217.17 87.63 0) 
             (effects 
                 (font 
-                    (size 1.27 1.27)) hide))) 
+                    (size 1.27 1.27)) hide)) 
+        (property "Manufacturer" "N/A" 
+            (id 4) 
+            (at 220.345 96.51989999999999 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "N/A" 
+            (id 5) 
+            (at 220.345 99.0599 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "N/A" 
+            (id 6) 
+            (at 220.345 101.59989999999999 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "N/A" 
+            (id 7) 
+            (at 220.345 104.1399 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "Mechanical:MountingHole") 
         (at 217.17 68.58 0) 
@@ -582,7 +694,35 @@
             (at 217.17 68.58 0) 
             (effects 
                 (font 
-                    (size 1.27 1.27)) hide))) 
+                    (size 1.27 1.27)) hide)) 
+        (property "Manufacturer" "N/A" 
+            (id 4) 
+            (at 220.345 77.4699 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "N/A" 
+            (id 5) 
+            (at 220.345 80.0099 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "N/A" 
+            (id 6) 
+            (at 220.345 82.5499 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "N/A" 
+            (id 7) 
+            (at 220.345 85.0899 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "power:GND") 
         (at 189.865 74.295 0) 
@@ -649,7 +789,35 @@
                 (font 
                     (size 1.27 1.27)) hide)) 
         (pin "1" 
-            (uuid 3fd083ca-eebc-4e03-9fea-4d094f42c1f2))) 
+            (uuid 3fd083ca-eebc-4e03-9fea-4d094f42c1f2)) 
+        (property "Manufacturer" "N/A" 
+            (id 4) 
+            (at 192.405 93.3449 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "N/A" 
+            (id 5) 
+            (at 192.405 95.8849 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "N/A" 
+            (id 6) 
+            (at 192.405 98.4249 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "N/A" 
+            (id 7) 
+            (at 192.405 100.9649 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "Mechanical:MountingHole_Pad") 
         (at 189.865 67.945 0) 
@@ -685,7 +853,35 @@
                 (font 
                     (size 1.27 1.27)) hide)) 
         (pin "1" 
-            (uuid 5fd80e8e-27f5-4f88-871b-6fddef0809b1))) 
+            (uuid 5fd80e8e-27f5-4f88-871b-6fddef0809b1)) 
+        (property "Manufacturer" "N/A" 
+            (id 4) 
+            (at 192.405 76.83489999999999 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "N/A" 
+            (id 5) 
+            (at 192.405 79.3749 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "N/A" 
+            (id 6) 
+            (at 192.405 81.91489999999999 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "N/A" 
+            (id 7) 
+            (at 192.405 84.4549 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "Mechanical:MountingHole") 
         (at 217.17 81.28 0) 
@@ -719,7 +915,35 @@
             (at 217.17 81.28 0) 
             (effects 
                 (font 
-                    (size 1.27 1.27)) hide))) 
+                    (size 1.27 1.27)) hide)) 
+        (property "Manufacturer" "N/A" 
+            (id 4) 
+            (at 220.345 90.1699 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "N/A" 
+            (id 5) 
+            (at 220.345 92.7099 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "N/A" 
+            (id 6) 
+            (at 220.345 95.2499 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "N/A" 
+            (id 7) 
+            (at 220.345 97.7899 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "power:GND") 
         (at 189.865 90.805 0) 

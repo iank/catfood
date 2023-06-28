@@ -4882,7 +4882,35 @@
         (pin "1" 
             (uuid 452dfc23-8aed-4ff9-bc86-7d864a2969cb)) 
         (pin "2" 
-            (uuid 97065ed2-1372-4293-b67b-83731a587751))) 
+            (uuid 97065ed2-1372-4293-b67b-83731a587751)) 
+        (property "Manufacturer" "Samsung Electro-Mechanics" 
+            (id 4) 
+            (at 113.03 101.6062 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "CL05A224KQ5NNNC" 
+            (id 5) 
+            (at 113.03 104.14620000000001 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 113.03 106.6862 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "1276-1124-1-ND" 
+            (id 7) 
+            (at 113.03 109.2262 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "Device:C_Small") 
         (at 186.69 107.95 0) 
@@ -4919,7 +4947,35 @@
         (pin "1" 
             (uuid 2186f0cd-9587-4a2d-8edb-fae6492c0502)) 
         (pin "2" 
-            (uuid 2ee61a3d-bb2d-4a43-a21a-83a5cadaa57b))) 
+            (uuid 2ee61a3d-bb2d-4a43-a21a-83a5cadaa57b)) 
+        (property "Manufacturer" "Samsung Electro-Mechanics" 
+            (id 4) 
+            (at 189.23 116.8462 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "CL21A106KPFNNNG" 
+            (id 5) 
+            (at 189.23 119.3862 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 189.23 121.9262 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "1276-6456-1-ND" 
+            (id 7) 
+            (at 189.23 124.4662 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "catfood:VDD_3V3_IN") 
         (at 93.98 101.6 0) 
@@ -5016,7 +5072,35 @@
         (pin "1" 
             (uuid fa1f65d9-ce79-4fcf-941a-3742c2570d09)) 
         (pin "2" 
-            (uuid 353d9b72-efb1-4b68-a29c-9de39a08368b))) 
+            (uuid 353d9b72-efb1-4b68-a29c-9de39a08368b)) 
+        (property "Manufacturer" "Samsung Electro-Mechanics" 
+            (id 4) 
+            (at 166.37 83.8262 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "CL05A224KQ5NNNC" 
+            (id 5) 
+            (at 166.37 86.3662 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 166.37 88.9062 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "1276-1124-1-ND" 
+            (id 7) 
+            (at 166.37 91.4462 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "Device:C_Small") 
         (at 163.83 92.71 0) 
@@ -5053,7 +5137,35 @@
         (pin "1" 
             (uuid c96ad851-3d2f-410c-b44d-e85c00f536aa)) 
         (pin "2" 
-            (uuid c2cde3ef-a9f2-4a9f-87d9-2bccc525ad47))) 
+            (uuid c2cde3ef-a9f2-4a9f-87d9-2bccc525ad47)) 
+        (property "Manufacturer" "Samsung Electro-Mechanics" 
+            (id 4) 
+            (at 166.37 101.6062 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "CL05A224KQ5NNNC" 
+            (id 5) 
+            (at 166.37 104.14620000000001 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 166.37 106.6862 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "1276-1124-1-ND" 
+            (id 7) 
+            (at 166.37 109.2262 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "Device:C_Small") 
         (at 184.15 127 0) 
@@ -5090,7 +5202,35 @@
         (pin "1" 
             (uuid a79729e0-c8ef-4114-8580-f80df59e8c29)) 
         (pin "2" 
-            (uuid 9166a3b8-7166-4ae5-ac9f-dc7289ddd4ad))) 
+            (uuid 9166a3b8-7166-4ae5-ac9f-dc7289ddd4ad)) 
+        (property "Manufacturer" "Samsung Electro-Mechanics" 
+            (id 4) 
+            (at 186.69 135.8962 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "CL21A106KPFNNNG" 
+            (id 5) 
+            (at 186.69 138.43619999999999 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 186.69 140.9762 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "1276-6456-1-ND" 
+            (id 7) 
+            (at 186.69 143.5162 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "catfood:VDD_HIGH_CAP") 
         (at 186.69 101.6 0) 
@@ -5157,7 +5297,35 @@
         (pin "1" 
             (uuid 51294eee-e300-457c-b8ab-5e49fc4cfcde)) 
         (pin "2" 
-            (uuid b9450473-3f4f-48f5-92e5-08ba30478811))) 
+            (uuid b9450473-3f4f-48f5-92e5-08ba30478811)) 
+        (property "Manufacturer" "Samsung Electro-Mechanics" 
+            (id 4) 
+            (at 171.45 116.8462 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "CL05A224KQ5NNNC" 
+            (id 5) 
+            (at 171.45 119.3862 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 171.45 121.9262 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "1276-1124-1-ND" 
+            (id 7) 
+            (at 171.45 124.4662 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "Device:C_Small") 
         (at 76.2 74.93 0) 
@@ -5195,7 +5363,35 @@
         (pin "1" 
             (uuid 78d7e18a-7e38-4103-b3b5-70176bca1721)) 
         (pin "2" 
-            (uuid 011e3dc2-b6d6-464c-adf7-b16567b865c9))) 
+            (uuid 011e3dc2-b6d6-464c-adf7-b16567b865c9)) 
+        (property "Manufacturer" "Samsung Electro-Mechanics" 
+            (id 4) 
+            (at 78.74 83.8262 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "CL10A475KQ8NNNC" 
+            (id 5) 
+            (at 78.74 86.3662 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 78.74 88.9062 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "1276-1045-1-ND" 
+            (id 7) 
+            (at 78.74 91.4462 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "catfood:VDD_3V3") 
         (at 93.98 86.36 0) 
@@ -5442,7 +5638,35 @@
         (pin "1" 
             (uuid 052eb4f7-89be-4cae-ab0e-1a1cc7864af8)) 
         (pin "2" 
-            (uuid abb01faf-d220-49fb-8dca-67cd358d360b))) 
+            (uuid abb01faf-d220-49fb-8dca-67cd358d360b)) 
+        (property "Manufacturer" "Samsung Electro-Mechanics" 
+            (id 4) 
+            (at 168.91 135.8962 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "CL05A224KQ5NNNC" 
+            (id 5) 
+            (at 168.91 138.43619999999999 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 168.91 140.9762 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "1276-1124-1-ND" 
+            (id 7) 
+            (at 168.91 143.5162 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "Device:C_Small") 
         (at 110.49 74.93 0) 
@@ -5479,7 +5703,35 @@
         (pin "1" 
             (uuid 77b3c00e-987d-494a-b9fd-7a9bd6908594)) 
         (pin "2" 
-            (uuid f770b483-03bb-4fcb-930b-3986ee1eb869))) 
+            (uuid f770b483-03bb-4fcb-930b-3986ee1eb869)) 
+        (property "Manufacturer" "Samsung Electro-Mechanics" 
+            (id 4) 
+            (at 113.03 83.8262 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "CL05A224KQ5NNNC" 
+            (id 5) 
+            (at 113.03 86.3662 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 113.03 88.9062 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "1276-1124-1-ND" 
+            (id 7) 
+            (at 113.03 91.4462 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "Device:C_Small") 
         (at 181.61 74.93 0) 
@@ -5516,7 +5768,35 @@
         (pin "1" 
             (uuid 4c763efb-2b91-4967-8700-03f4f5b51f81)) 
         (pin "2" 
-            (uuid a9b816c6-2a27-4bda-b37e-8007a103c713))) 
+            (uuid a9b816c6-2a27-4bda-b37e-8007a103c713)) 
+        (property "Manufacturer" "Samsung Electro-Mechanics" 
+            (id 4) 
+            (at 184.15 83.8262 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "CL05A224KQ5NNNC" 
+            (id 5) 
+            (at 184.15 86.3662 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 184.15 88.9062 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "1276-1124-1-ND" 
+            (id 7) 
+            (at 184.15 91.4462 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "Device:C_Small") 
         (at 199.39 74.93 0) 
@@ -5554,7 +5834,35 @@
         (pin "1" 
             (uuid b2ea636a-8237-45de-a570-197d647be3b2)) 
         (pin "2" 
-            (uuid 73ef4ff5-2406-48cf-ab12-9e462cc79e1a))) 
+            (uuid 73ef4ff5-2406-48cf-ab12-9e462cc79e1a)) 
+        (property "Manufacturer" "Murata Electronics" 
+            (id 4) 
+            (at 201.93 83.8262 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "GRM21BR61A226ME51L" 
+            (id 5) 
+            (at 201.93 86.3662 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 201.93 88.9062 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "490-10511-1-ND" 
+            (id 7) 
+            (at 201.93 91.4462 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "power:GND") 
         (at 162.56 142.24 0) 
@@ -5621,7 +5929,35 @@
         (pin "1" 
             (uuid fa8d061c-a107-4a15-80de-e8a688b5802b)) 
         (pin "2" 
-            (uuid e37de952-33d5-4f44-aae0-1fb03e9767ed))) 
+            (uuid e37de952-33d5-4f44-aae0-1fb03e9767ed)) 
+        (property "Manufacturer" "Samsung Electro-Mechanics" 
+            (id 4) 
+            (at 165.1 147.3262 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "CL05A224KQ5NNNC" 
+            (id 5) 
+            (at 165.1 149.8662 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 165.1 152.4062 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "1276-1124-1-ND" 
+            (id 7) 
+            (at 165.1 154.9462 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "Device:C_Small") 
         (at 92.71 74.93 0) 
@@ -5658,7 +5994,35 @@
         (pin "1" 
             (uuid f6a52c0d-6a16-41f8-ac63-68c29e1776c4)) 
         (pin "2" 
-            (uuid 34635364-ba47-4be3-a51a-547337778274))) 
+            (uuid 34635364-ba47-4be3-a51a-547337778274)) 
+        (property "Manufacturer" "Samsung Electro-Mechanics" 
+            (id 4) 
+            (at 95.25 83.8262 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "CL05A224KQ5NNNC" 
+            (id 5) 
+            (at 95.25 86.3662 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 95.25 88.9062 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "1276-1124-1-ND" 
+            (id 7) 
+            (at 95.25 91.4462 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "power:GND") 
         (at 186.69 113.03 0) 
@@ -5756,7 +6120,35 @@
         (pin "1" 
             (uuid 56341d10-4193-4b04-8e54-8ddf0c80ab64)) 
         (pin "2" 
-            (uuid 7117aae3-5e10-4151-8797-5d26d003e2e9))) 
+            (uuid 7117aae3-5e10-4151-8797-5d26d003e2e9)) 
+        (property "Manufacturer" "Murata Electronics" 
+            (id 4) 
+            (at 201.93 101.6062 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "GRM21BR61A226ME51L" 
+            (id 5) 
+            (at 201.93 104.14620000000001 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 201.93 106.6862 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "490-10511-1-ND" 
+            (id 7) 
+            (at 201.93 109.2262 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "catfood:MCIMX6YxxVMxxxx") 
         (at 142.24 88.9 0) 
@@ -5777,7 +6169,7 @@
             (effects 
                 (font 
                     (size 1.27 1.27)) hide)) 
-        (property "Datasheet" "" 
+        (property "Datasheet" "~" 
             (id 3) 
             (at 132.08 69.85 0) 
             (effects 
@@ -6421,7 +6813,35 @@
         (pin "1" 
             (uuid 350b15d2-b28e-4a81-9950-f0d3d4d6c85c)) 
         (pin "2" 
-            (uuid fdd2d79f-038b-4e58-a819-11382ff87ce9))) 
+            (uuid fdd2d79f-038b-4e58-a819-11382ff87ce9)) 
+        (property "Manufacturer" "Samsung Electro-Mechanics" 
+            (id 4) 
+            (at 184.15 101.6062 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "CL05A224KQ5NNNC" 
+            (id 5) 
+            (at 184.15 104.14620000000001 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 184.15 106.6862 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "1276-1124-1-ND" 
+            (id 7) 
+            (at 184.15 109.2262 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "Device:C_Small") 
         (at 59.69 74.93 0) 
@@ -6459,7 +6879,35 @@
         (pin "1" 
             (uuid e7664418-0e11-4075-b2d4-ef79803db3e3)) 
         (pin "2" 
-            (uuid 7f088612-2aaf-4dfe-baf9-a99408c79d78))) 
+            (uuid 7f088612-2aaf-4dfe-baf9-a99408c79d78)) 
+        (property "Manufacturer" "Murata Electronics" 
+            (id 4) 
+            (at 62.23 83.8262 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "GRM21BR61A226ME51L" 
+            (id 5) 
+            (at 62.23 86.3662 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 62.23 88.9062 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "490-10511-1-ND" 
+            (id 7) 
+            (at 62.23 91.4462 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "Device:C_Small") 
         (at 93.98 92.71 0) 
@@ -6497,7 +6945,35 @@
         (pin "1" 
             (uuid 959541bd-c395-439c-b302-c42a62c8df98)) 
         (pin "2" 
-            (uuid 574c1299-018d-4905-a8ba-f92d8a52c5bd))) 
+            (uuid 574c1299-018d-4905-a8ba-f92d8a52c5bd)) 
+        (property "Manufacturer" "Samsung Electro-Mechanics" 
+            (id 4) 
+            (at 96.52 101.6062 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "CL10A475KQ8NNNC" 
+            (id 5) 
+            (at 96.52 104.14620000000001 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 96.52 106.6862 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "1276-1045-1-ND" 
+            (id 7) 
+            (at 96.52 109.2262 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "Device:C_Small") 
         (at 93.98 106.68 0) 
@@ -6534,7 +7010,35 @@
         (pin "1" 
             (uuid 57e7cf45-11b8-4233-9800-77c331907e0f)) 
         (pin "2" 
-            (uuid 2a045115-d54a-44f9-9955-0260afbd1bee))) 
+            (uuid 2a045115-d54a-44f9-9955-0260afbd1bee)) 
+        (property "Manufacturer" "Samsung Electro-Mechanics" 
+            (id 4) 
+            (at 96.52 115.5762 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "CL05A224KQ5NNNC" 
+            (id 5) 
+            (at 96.52 118.1162 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 96.52 120.6562 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "1276-1124-1-ND" 
+            (id 7) 
+            (at 96.52 123.1962 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "power:GND") 
         (at 199.39 80.01 0) 

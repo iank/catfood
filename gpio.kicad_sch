@@ -17802,7 +17802,35 @@
         (pin "1" 
             (uuid bae088ab-1663-4fa2-9914-f07df84ab85c)) 
         (pin "2" 
-            (uuid f8a89f0f-45b7-4019-9845-20aac0eeb59c))) 
+            (uuid f8a89f0f-45b7-4019-9845-20aac0eeb59c)) 
+        (property "Manufacturer" "TDK Corporation" 
+            (id 4) 
+            (at 139.7 105.4162 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "CGB2A1X5R1E105K033BC" 
+            (id 5) 
+            (at 139.7 107.95620000000001 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 139.7 110.4962 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "445-13185-1-ND" 
+            (id 7) 
+            (at 139.7 113.03620000000001 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "power:GND") 
         (at 153.67 104.14 0) 
@@ -17855,7 +17883,7 @@
             (effects 
                 (font 
                     (size 1.27 1.27)) hide)) 
-        (property "Datasheet" "" 
+        (property "Datasheet" "~" 
             (id 3) 
             (at 195.58 39.37 0) 
             (effects 
@@ -18484,7 +18512,7 @@
             (effects 
                 (font 
                     (size 1.27 1.27)) hide)) 
-        (property "Datasheet" "" 
+        (property "Datasheet" "~" 
             (id 3) 
             (at 189.865 139.065 0) 
             (effects 
@@ -19129,7 +19157,35 @@
         (pin "1" 
             (uuid 715e0680-4b82-4fe5-ac71-19ebf2b75b97)) 
         (pin "2" 
-            (uuid db92ad3c-4f15-4835-9be0-8de507eb7fff))) 
+            (uuid db92ad3c-4f15-4835-9be0-8de507eb7fff)) 
+        (property "Manufacturer" "Samsung Electro-Mechanics" 
+            (id 4) 
+            (at 21.59 51.441199999999995 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "CL05A224KQ5NNNC" 
+            (id 5) 
+            (at 21.59 53.9812 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 21.59 56.5212 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "1276-1124-1-ND" 
+            (id 7) 
+            (at 21.59 59.0612 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_name "MCIMX6YxxVMxxxx_1") 
         (lib_id "catfood:MCIMX6YxxVMxxxx") 
@@ -19151,7 +19207,7 @@
             (effects 
                 (font 
                     (size 1.27 1.27)) hide)) 
-        (property "Datasheet" "" 
+        (property "Datasheet" "~" 
             (id 3) 
             (at 50.165 142.875 0) 
             (effects 
@@ -19889,7 +19945,35 @@
         (pin "1" 
             (uuid 94a93460-bbeb-46c5-a3f5-c5dd511108ff)) 
         (pin "2" 
-            (uuid 8a2d27a5-a628-4752-8cf7-dffb5d065861))) 
+            (uuid 8a2d27a5-a628-4752-8cf7-dffb5d065861)) 
+        (property "Manufacturer" "Samsung Electro-Mechanics" 
+            (id 4) 
+            (at 156.21 105.4162 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "CL05A224KQ5NNNC" 
+            (id 5) 
+            (at 156.21 107.95620000000001 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 156.21 110.4962 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "1276-1124-1-ND" 
+            (id 7) 
+            (at 156.21 113.03620000000001 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "Device:C_Small") 
         (at 24.13 144.78 0) 
@@ -19927,7 +20011,35 @@
         (pin "1" 
             (uuid fad8b0de-ef14-4530-9640-d8df47d5d2ba)) 
         (pin "2" 
-            (uuid 8f82fafe-d542-464d-919d-e75e6bc3675a))) 
+            (uuid 8f82fafe-d542-464d-919d-e75e6bc3675a)) 
+        (property "Manufacturer" "Samsung Electro-Mechanics" 
+            (id 4) 
+            (at 26.67 153.6762 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "CL05A224KQ5NNNC" 
+            (id 5) 
+            (at 26.67 156.2162 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 26.67 158.7562 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "1276-1124-1-ND" 
+            (id 7) 
+            (at 26.67 161.2962 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_name "MCIMX6YxxVMxxxx_2") 
         (lib_id "catfood:MCIMX6YxxVMxxxx") 
@@ -19949,7 +20061,7 @@
             (effects 
                 (font 
                     (size 1.27 1.27)) hide)) 
-        (property "Datasheet" "" 
+        (property "Datasheet" "~" 
             (id 3) 
             (at 44.45 40.64 0) 
             (effects 
@@ -20616,7 +20728,7 @@
             (effects 
                 (font 
                     (size 1.27 1.27)) hide)) 
-        (property "Datasheet" "" 
+        (property "Datasheet" "~" 
             (id 3) 
             (at 182.88 95.25 0) 
             (effects 
@@ -21327,7 +21439,35 @@
         (pin "1" 
             (uuid 7a3d1505-0b8b-4f0b-87cc-21dad12c9b80)) 
         (pin "2" 
-            (uuid 8f627e12-d068-4d10-8891-f84908ff9d1d))) 
+            (uuid 8f627e12-d068-4d10-8891-f84908ff9d1d)) 
+        (property "Manufacturer" "Samsung Electro-Mechanics" 
+            (id 4) 
+            (at 171.45 50.806200000000004 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "CL05A224KQ5NNNC" 
+            (id 5) 
+            (at 171.45 53.346199999999996 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 171.45 55.8862 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "1276-1124-1-ND" 
+            (id 7) 
+            (at 171.45 58.4262 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "catfood:VDD_3V3") 
         (at 168.91 34.925 0) 
@@ -21396,7 +21536,35 @@
         (pin "1" 
             (uuid 32edfd1d-2869-4d80-8953-76ce7048c353)) 
         (pin "2" 
-            (uuid af7c4ac4-6cf0-4631-a42b-eb41cb32ef02))) 
+            (uuid af7c4ac4-6cf0-4631-a42b-eb41cb32ef02)) 
+        (property "Manufacturer" "Samsung Electro-Mechanics" 
+            (id 4) 
+            (at 166.37 149.2312 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "MfgPartNo" "CL05A224KQ5NNNC" 
+            (id 5) 
+            (at 166.37 151.7712 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "Vendor" "Digi-Key" 
+            (id 6) 
+            (at 166.37 154.3112 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide)) 
+        (property "VendorPartNo" "1276-1124-1-ND" 
+            (id 7) 
+            (at 166.37 156.8512 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left) hide))) 
     (symbol 
         (lib_id "catfood:VDD_3V3") 
         (at 19.05 35.56 0) 
