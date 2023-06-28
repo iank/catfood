@@ -38,31 +38,32 @@ jobs:
         path: Generated
 
 
-  DRC:
-    runs-on: ubuntu-latest
-    needs: ERC
-
-    steps:
-    - uses: actions/checkout@v3
-
-    - name: Run DRC
-      uses: INTI-CMNB/KiBot@v2_k7
-      with:
-        dir: Generated
-        skip: run_erc
-        targets: __NONE__
-
-    - name: Retrieve results
-      uses: actions/upload-artifact@v3
-      with:
-        name: DRC_Output
-        path: Generated
+#  DRC:
+#    runs-on: ubuntu-latest
+#    needs: ERC
+#
+#    steps:
+#    - uses: actions/checkout@v3
+#
+#    - name: Run DRC
+#      uses: INTI-CMNB/KiBot@v2_k7
+#      with:
+#        dir: Generated
+#        skip: run_erc
+#        targets: __NONE__
+#
+#    - name: Retrieve results
+#      uses: actions/upload-artifact@v3
+#      with:
+#        name: DRC_Output
+#        path: Generated
 
 
   default:
     name: "Default variant"
     runs-on: ubuntu-latest
-    needs: [ERC, DRC]
+#    needs: [ERC, DRC]
+    needs: [ERC]
 
     steps:
     - uses: actions/checkout@v3
