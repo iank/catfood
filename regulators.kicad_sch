@@ -6,6 +6,8 @@
 
   (title_block
     (title "catfood")
+    (date "${date}")
+    (rev "${git_hash}")
     (company "Ian Kilgore")
   )
 
