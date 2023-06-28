@@ -371,7 +371,7 @@
     ]
   ],
   "text_variables": {
-    "date": "2023-06-27T23:10-04:00",
-    "git_hash": "Git:v0.1.0-1-g97264c5-dirty"
+    "date": "2023-06-27T23:47-04:00",
+    "git_hash": "Git:v0.1.0-4-gc1d027a-dirty"
   }
 }
