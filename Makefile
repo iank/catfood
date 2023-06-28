@@ -7,12 +7,9 @@ EXTRA_OPS=-e catfood.kicad_sch --banner -1 --log $(OUT_DIR)/kibot.log $(DEBUG)
 all: erc catfood
 
 erc:
-	$(KIBOT) $(EXTRA_OPS) -d $(OUT_DIR) -s run_drc -i
-
-drc:
-	$(KIBOT) $(EXTRA_OPS) -d $(OUT_DIR) -s run_erc -i
+	$(KIBOT) $(EXTRA_OPS) -d $(OUT_DIR)  -i
 
 catfood:
-	$(KIBOT) $(EXTRA_OPS) -d $(OUT_DIR) -s run_erc,run_drc
+	$(KIBOT) $(EXTRA_OPS) -d $(OUT_DIR) 
 
-.PHONY: catfood erc drc
+.PHONY: catfood erc
