@@ -1,0 +1,48 @@
+# This is a working example.
+# For a more complete reference use `--example`
+kibot:
+  version: 1
+
+global:
+  filters:
+  - number: 1007
+  - number: 1015
+  - number: 58
+
+preflight:
+  check_zone_fills: true
+  run_erc: true
+#  run_drc: true
+  set_text_variables:
+    # The revision will be the short git hash
+    # We use ${git_hash} for the REV field in the worksheet (frame)
+    - name: 'git_hash'
+      command: 'git describe --tags'
+      before: 'Git:'
+    # Coherent date and time for the schematic and PCB
+    # This will be the time stamp of the files generation, not the commit times
+    # We use `${date}` for the time field in the worksheet (frame)
+    - name: 'date'
+      command: 'date --iso-8601=minutes'
+
+outputs:
+- name: generic_bom_csv
+  comment: BoM CSV
+  type: bom
+  dir: bom
+  options:
+    format: CSV
+    count_smd_tht: true
+
+- name: generic_bom_html
+  comment: BoM HTML
+  type: bom
+  dir: bom
+  options:
+    format: HTML
+    count_smd_tht: true
+
+- name: 'print_sch'
+  comment: "Schematic PDF"
+  type: pdf_sch_print
+  dir: schematic
