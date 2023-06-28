@@ -17,7 +17,7 @@ preflight:
     # The revision will be the short git hash
     # We use ${git_hash} for the REV field in the worksheet (frame)
     - name: 'git_hash'
-      command: 'git describe --tags --dirty'
+      command: 'git describe --tags'
       before: 'Git:'
     # Coherent date and time for the schematic and PCB
     # This will be the time stamp of the files generation, not the commit times
